@@ -1,23 +1,37 @@
 {
   "uuid": "b5d535ca-6f5e-3ba5-ad41-fd974b5ecec8",
-  "starterPrompted": false,
+  "starterPrompted": true,
   "starterLocked": false,
-  "starterSelected": false,
+  "starterSelected": true,
+  "starterUUID": "6b74aac7-3d6d-42e6-85cf-680d3ceb5e44",
   "keyItems": [],
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 0,
+    "totalCaptureCount": 6,
     "totalEggsHatched": 0,
-    "totalEvolvedCount": 0,
-    "totalBattleVictoryCount": 0,
+    "totalEvolvedCount": 7,
+    "totalBattleVictoryCount": 13,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 0,
+    "totalPvWBattleVictoryCount": 13,
     "totalPvNBattleVictoryCount": 0,
-    "totalShinyCaptureCount": 0,
-    "totalTradedCount": 0,
-    "totalTypeCaptureCounts": {},
-    "totalDefeatedCounts": {},
+    "totalShinyCaptureCount": 1,
+    "totalTradedCount": 2,
+    "totalTypeCaptureCounts": {
+      "fire": 1,
+      "psychic": 1,
+      "dragon": 2,
+      "ground": 1,
+      "ghost": 1,
+      "water": 2
+    },
+    "totalDefeatedCounts": {
+      "cobblemon:poochyena": 1,
+      "cobblemon:maractus": 2,
+      "cobblemon:rattata": 1,
+      "cobblemon:zorua": 2,
+      "cobblemon:gimmighoul": 1
+    },
     "aspectsCollected": {}
   }
 }
