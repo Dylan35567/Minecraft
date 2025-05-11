@@ -217,3 +217,16 @@
 [11May2025 18:58:54.649] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of mario444) moved wrongly! 0.7219791287880355
 [11May2025 19:01:48.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mario444 was impaled by Drowned
 [11May2025 19:02:32.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mario444 was impaled by Drowned
+[11May2025 19:04:55.599] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[11May2025 19:06:24.064] [Worker-Main-12/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
+[11May2025 19:06:24.064] [Worker-Main-12/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
+[11May2025 19:06:24.064] [Worker-Main-12/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_end_1_pool
+[11May2025 19:06:24.064] [Worker-Main-12/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_end_1_pool
+[11May2025 19:06:38.128] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2038ms or 40 ticks behind
+[11May2025 19:07:43.297] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mario444 moved too quickly! -0.41728457447288747,10.137005190103075,0.46908386906852684
+[11May2025 19:09:51.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mario444 has made the advancement [Diamonds!]
+[11May2025 19:11:09.418] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3278ms or 65 ticks behind
+[11May2025 19:16:39.593] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mario444 lost connection: Disconnected
+[11May2025 19:16:39.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mario444 left the game
+[11May2025 19:20:20.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dortodoloncio has made the advancement [Hot Stuff]
+[11May2025 19:23:46.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dortodoloncio has made the advancement [Amateur Archaeologist]

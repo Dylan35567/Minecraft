@@ -2025,6 +2025,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-05-11 19:04:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2025-05-11 19:14:51 +0000"
+    },
+    "done": true
+  },
   "armorplus:recipes/armorplus.blocks/crafting/shaped/bricks/red_stone_brick": {
     "criteria": {
       "has_req": "2025-05-11 18:00:36 +0000"
@@ -2049,9 +2061,21 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/birch_rail_bridge": {
+    "criteria": {
+      "has_planks": "2025-05-11 19:14:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2025-05-11 18:38:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-05-11 19:04:14 +0000"
     },
     "done": true
   },
@@ -2091,9 +2115,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-05-11 19:09:05 +0000"
+    },
+    "done": true
+  },
   "armorplus:recipes/armorplus.armors/crafting/shaped/chicken/chicken_helmet": {
     "criteria": {
       "has_req": "2025-05-11 18:12:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2025-05-11 19:14:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2025-05-11 19:14:51 +0000"
     },
     "done": true
   },
@@ -2163,9 +2205,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-05-11 19:07:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-05-11 17:59:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2025-05-11 19:14:51 +0000"
     },
     "done": true
   },
@@ -2187,6 +2241,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-05-11 19:14:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/stone_button": {
     "criteria": {
       "has_stone": "2025-05-11 17:59:13 +0000"
@@ -2205,6 +2265,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2025-05-11 19:09:24 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/combat/golden_knife": {
     "criteria": {
       "has_gold_ingot": "2025-05-11 18:38:21 +0000"
@@ -2220,6 +2286,18 @@
   "armorplus:recipes/armorplus.armors/crafting/shaped/chicken/chicken_helmet_alt": {
     "criteria": {
       "has_req": "2025-05-11 18:12:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2025-05-11 19:14:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-05-11 19:09:23 +0000"
     },
     "done": true
   },
@@ -2247,6 +2325,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2025-05-11 19:14:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-05-11 17:59:13 +0000"
@@ -2259,9 +2343,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-05-11 19:09:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-05-11 19:07:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-05-11 19:09:05 +0000"
+    },
+    "done": true
+  },
   "armorplus:recipes/armorplus.blocks/crafting/shaped/bricks/black_stone_brick": {
     "criteria": {
       "has_req": "2025-05-11 18:00:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-05-11 19:07:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2025-05-11 19:09:24 +0000"
     },
     "done": true
   },
@@ -2271,9 +2385,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2025-05-11 19:09:05 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/birch_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2025-05-11 19:14:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_planks": {
     "criteria": {
       "has_logs": "2025-05-11 18:47:49 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/oak_cabinet": {
+    "criteria": {
+      "has_oak_trapdoor": "2025-05-11 19:14:39 +0000"
     },
     "done": true
   },
@@ -2283,9 +2415,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2025-05-11 19:09:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-05-11 18:00:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2025-05-11 19:09:24 +0000"
     },
     "done": true
   },
@@ -2355,6 +2499,12 @@
     },
     "done": true
   },
+  "armorplus:recipes/armorplus.weapons/crafting/shaped/lapis/lapis_arrow": {
+    "criteria": {
+      "has_req": "2025-05-11 19:04:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2025-05-11 18:41:38 +0000"
@@ -2364,6 +2514,12 @@
   "armorplus:recipes/armorplus.blocks/crafting/shaped/bricks/orange_stone_brick": {
     "criteria": {
       "has_req": "2025-05-11 18:00:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-05-11 19:14:51 +0000"
     },
     "done": true
   },
@@ -2391,9 +2547,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-05-11 19:15:24 +0000"
+    },
+    "done": true
+  },
   "armorplus:recipes/armorplus.items/crafting/shaped/enhanced/en_gold": {
     "criteria": {
       "has_req": "2025-05-11 18:38:21 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/lapis": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-05-11 19:04:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-05-11 19:07:31 +0000"
     },
     "done": true
   },
@@ -2406,6 +2580,12 @@
   "mcwbridges:recipes/stone_bridge_pier": {
     "criteria": {
       "has_planks": "2025-05-11 18:00:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-05-11 19:14:51 +0000"
     },
     "done": true
   },
@@ -2433,6 +2613,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/rope_birch_bridge": {
+    "criteria": {
+      "has_planks": "2025-05-11 19:14:51 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/vegetable_soup": {
     "criteria": {
       "has_any_ingredient": "2025-05-11 18:41:38 +0000"
@@ -2442,6 +2628,12 @@
   "armorplus:recipes/armorplus.blocks/crafting/shaped/soul_box_adv": {
     "criteria": {
       "has_req": "2025-05-11 17:59:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-05-11 19:09:23 +0000"
     },
     "done": true
   },
@@ -2460,6 +2652,12 @@
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_stone": "2025-05-11 17:59:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2025-05-11 19:09:24 +0000"
     },
     "done": true
   },
