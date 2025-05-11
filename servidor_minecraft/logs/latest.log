@@ -180,3 +180,5 @@
 [11May2025 15:26:19.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Amorger2 has made the advancement [Creeping Horror]
 [11May2025 15:51:20.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Amorger2 was slain by Iron Golem
 [11May2025 15:51:20.174] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Amorger2 with unique ID travelersbackpack.pig_11.05.2025-15.51.20.dat
+[11May2025 16:13:53.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Amorger2 tried to swim in lava to escape Spider
+[11May2025 16:13:53.680] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Amorger2 with unique ID travelersbackpack.pig_11.05.2025-16.13.53.dat
