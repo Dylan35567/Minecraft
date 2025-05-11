@@ -44,6 +44,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2025-05-11 01:57:24 +0000",
+      "minecraft:windswept_hills": "2025-05-11 03:19:46 +0000",
       "minecraft:river": "2025-05-11 01:51:11 +0000",
       "minecraft:dripstone_caves": "2025-05-11 02:04:21 +0000",
       "minecraft:forest": "2025-05-11 01:49:39 +0000",
@@ -891,6 +892,7 @@
       "cooked_mutton": "2025-05-11 02:09:27 +0000",
       "cooked_beef": "2025-05-11 02:00:33 +0000",
       "mutton": "2025-05-11 02:56:00 +0000",
+      "bread": "2025-05-11 03:13:33 +0000",
       "rotten_flesh": "2025-05-11 02:48:56 +0000",
       "cooked_chicken": "2025-05-11 02:13:38 +0000"
     },
@@ -1792,6 +1794,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2025-05-11 03:13:44 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/misc/iron_nugget_from_blasting_knife": {
     "criteria": {
       "has_iron_knife": "2025-05-11 03:04:06 +0000"
@@ -1801,6 +1809,12 @@
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2025-05-11 02:53:41 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-11 03:14:05 +0000"
     },
     "done": true
   },
@@ -1828,6 +1842,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-05-11 03:14:06 +0000"
+    },
+    "done": true
+  },
   "armorplus:recipes/armorplus.blocks/crafting/shaped/bricks/red_stone_brick": {
     "criteria": {
       "has_req": "2025-05-11 03:07:45 +0000"
@@ -1837,6 +1857,12 @@
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2025-05-11 02:50:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-05-11 03:15:03 +0000"
     },
     "done": true
   },
@@ -1900,6 +1926,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-05-11 03:14:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs": {
     "criteria": {
       "has_stone_bricks": "2025-05-11 02:45:05 +0000"
@@ -1936,9 +1968,21 @@
     },
     "done": true
   },
+  "realmrpg_creep:obtain_creeping_sprout": {
+    "criteria": {
+      "obtain_creeping_sprout": "2025-05-11 03:19:58 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
     "criteria": {
       "fried_egg": "2025-05-11 02:53:41 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_noodles": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-11 03:14:03 +0000"
     },
     "done": true
   },
@@ -1951,6 +1995,18 @@
   "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
     "criteria": {
       "has_tag": "2025-05-11 02:45:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-05-11 03:20:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-05-11 03:15:03 +0000"
     },
     "done": true
   },
@@ -1996,6 +2052,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-05-11 03:15:03 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/pumpkin_soup": {
     "criteria": {
       "has_any_ingredient": "2025-05-11 03:01:14 +0000"
@@ -2020,9 +2082,21 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald": "2025-05-11 03:20:04 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/spider": {
     "criteria": {
       "has_string": "2025-05-11 02:36:19 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/barbecue_stick": {
+    "criteria": {
+      "has_onion": "2025-05-11 03:14:05 +0000"
     },
     "done": true
   },
@@ -2038,9 +2112,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-05-11 03:15:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/candle": {
     "criteria": {
       "has_string": "2025-05-11 02:36:19 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_emerald_ingot": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:gems/emerald]": "2025-05-11 03:20:04 +0000"
     },
     "done": true
   },
@@ -2053,6 +2139,12 @@
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_wheat": "2025-05-11 02:39:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2025-05-11 03:13:44 +0000"
     },
     "done": true
   },
@@ -2080,9 +2172,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jack_o_lantern": {
+    "criteria": {
+      "has_carved_pumpkin": "2025-05-11 03:13:26 +0000"
+    },
+    "done": true
+  },
   "armorplus:recipes/armorplus.items/crafting/shaped/super_star/super_star_bow_base": {
     "criteria": {
       "has_req": "2025-05-11 02:36:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-05-11 03:13:44 +0000"
     },
     "done": true
   },
@@ -2113,6 +2217,12 @@
   "farmersdelight:recipes/cooking/fried_rice": {
     "criteria": {
       "has_any_ingredient": "2025-05-11 02:53:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_carved_pumpkin": "2025-05-11 03:13:26 +0000"
     },
     "done": true
   },
@@ -2212,6 +2322,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/dumplings": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-11 03:14:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/sugar_from_sugar_cane": {
     "criteria": {
       "has_sugar_cane": "2025-05-11 02:55:27 +0000"
@@ -2236,9 +2352,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-05-11 03:14:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-05-11 03:07:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-05-11 03:14:03 +0000"
     },
     "done": true
   },
@@ -2251,6 +2379,12 @@
   "armorplus:recipes/armorplus.blocks/crafting/shaped/bricks/purple_stone_brick": {
     "criteria": {
       "has_req": "2025-05-11 03:07:45 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/ratatouille": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-11 03:14:05 +0000"
     },
     "done": true
   },
@@ -2269,6 +2403,12 @@
   "minecraft:recipes/decorations/light_gray_banner": {
     "criteria": {
       "has_light_gray_wool": "2025-05-11 02:57:58 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-05-11 03:20:05 +0000"
     },
     "done": true
   },
@@ -2326,6 +2466,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/bookshelf": {
+    "criteria": {
+      "has_book": "2025-05-11 03:15:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
       "has_gunpowder": "2025-05-11 02:39:26 +0000"
@@ -2347,6 +2493,12 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2025-05-11 02:39:26 +0000"
+    },
+    "done": true
+  },
+  "armorplus:recipes/armorplus.weapons/crafting/shaped/emerald/emerald_arrow": {
+    "criteria": {
+      "has_req": "2025-05-11 03:20:04 +0000"
     },
     "done": true
   },
@@ -2374,6 +2526,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/building_blocks/onion_crate": {
+    "criteria": {
+      "has_onion": "2025-05-11 03:14:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2025-05-11 02:36:19 +0000"
@@ -2383,6 +2541,12 @@
   "travelersbackpack:recipes/misc/cake": {
     "criteria": {
       "has_egg": "2025-05-11 02:53:41 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-11 03:14:03 +0000"
     },
     "done": true
   },

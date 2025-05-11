@@ -51,6 +51,7 @@
     "criteria": {
       "minecraft:taiga": "2025-05-11 01:57:20 +0000",
       "minecraft:birch_forest": "2025-05-11 02:38:27 +0000",
+      "minecraft:windswept_hills": "2025-05-11 03:27:23 +0000",
       "minecraft:beach": "2025-05-11 02:38:40 +0000",
       "minecraft:river": "2025-05-11 01:51:21 +0000",
       "minecraft:forest": "2025-05-11 01:45:06 +0000",
@@ -1478,9 +1479,33 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/combat/diamond_knife": {
+    "criteria": {
+      "has_diamond": "2025-05-11 03:29:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_leggings": "2025-05-11 02:39:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2025-05-11 03:29:20 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-11 03:26:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-05-11 03:31:20 +0000"
     },
     "done": true
   },
@@ -1490,9 +1515,21 @@
     },
     "done": true
   },
+  "armorplus:recipes/armorplus.items/crafting/shaped/enhanced/en_diamond": {
+    "criteria": {
+      "has_req": "2025-05-11 03:29:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_sword": "2025-05-11 02:39:33 +0000"
+    },
+    "done": true
+  },
+  "armorplus:recipes/armorplus.weapons/crafting/shaped/redstone/redstone_arrow": {
+    "criteria": {
+      "has_req": "2025-05-11 03:21:16 +0000"
     },
     "done": true
   },
@@ -1538,9 +1575,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-05-11 03:31:20 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/wheat_dough_from_eggs": {
     "criteria": {
       "has_wheat": "2025-05-11 02:32:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2025-05-11 03:29:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2025-05-11 03:29:20 +0000"
     },
     "done": true
   },
@@ -1568,9 +1623,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2025-05-11 03:29:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-05-11 03:21:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/golden_apple": {
     "criteria": {
       "has_gold_ingot": "2025-05-11 02:39:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-05-11 03:21:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-05-11 03:20:11 +0000"
     },
     "done": true
   },
@@ -1634,6 +1713,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-05-11 03:20:11 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/diorite_bridge_stair": {
     "criteria": {
       "has_planks": "2025-05-11 03:01:52 +0000"
@@ -1652,11 +1737,19 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2025-05-11 03:29:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-05-11 02:52:08 +0000",
       "minecraft:vindicator": "2025-05-11 02:49:43 +0000",
       "minecraft:spider": "2025-05-11 02:34:46 +0000",
+      "minecraft:witch": "2025-05-11 03:21:16 +0000",
+      "minecraft:husk": "2025-05-11 03:11:53 +0000",
       "minecraft:piglin": "2025-05-11 02:47:42 +0000",
       "minecraft:zombie": "2025-05-11 02:32:05 +0000",
       "minecraft:drowned": "2025-05-11 02:36:29 +0000"
@@ -1705,6 +1798,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/barbecue_stick": {
+    "criteria": {
+      "has_onion": "2025-05-11 03:26:02 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/combat/golden_knife": {
     "criteria": {
       "has_gold_ingot": "2025-05-11 02:39:02 +0000"
@@ -1729,6 +1828,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-05-11 03:21:16 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_mushroom_house": {
     "criteria": {
       "location0": "2025-05-11 02:38:51 +0000"
@@ -1747,9 +1852,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2025-05-11 03:29:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_stairs": {
     "criteria": {
       "has_planks": "2025-05-11 03:07:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2025-05-11 03:29:20 +0000"
     },
     "done": true
   },
@@ -1761,7 +1878,8 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
-      "rice": "2025-05-11 02:26:46 +0000"
+      "rice": "2025-05-11 02:26:46 +0000",
+      "carrot": "2025-05-11 03:16:33 +0000"
     },
     "done": false
   },
@@ -1795,6 +1913,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-05-11 03:21:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_pressure_plate": {
     "criteria": {
       "has_planks": "2025-05-11 03:07:52 +0000"
@@ -1813,6 +1937,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2025-05-11 03:29:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_nether_brick_slab_from_red_nether_bricks_stonecutting": {
     "criteria": {
       "has_red_nether_bricks": "2025-05-11 03:07:49 +0000"
@@ -1825,6 +1955,18 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/diamond_tier_upgrade": {
+    "criteria": {
+      "has_diamond": "2025-05-11 03:29:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-05-11 03:10:42 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/standard": {
     "criteria": {
       "has_chest": "2025-05-11 02:53:45 +0000"
@@ -1834,6 +1976,12 @@
   "minecraft:recipes/redstone/dark_oak_door": {
     "criteria": {
       "has_planks": "2025-05-11 03:07:52 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/redstone": {
+    "criteria": {
+      "has_redstone": "2025-05-11 03:21:16 +0000"
     },
     "done": true
   },
@@ -1885,9 +2033,27 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/dumplings": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-11 03:26:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-05-11 03:31:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-05-11 03:01:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2025-05-11 03:29:20 +0000"
     },
     "done": true
   },
@@ -1921,6 +2087,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-05-11 03:21:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2025-05-11 02:58:57 +0000"
@@ -1930,6 +2102,12 @@
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2025-05-11 02:39:02 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_diamond_ingot": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:gems/diamond]": "2025-05-11 03:29:20 +0000"
     },
     "done": true
   },
@@ -1951,9 +2129,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-05-11 03:17:33 +0000"
+    },
+    "done": true
+  },
   "armorplus:recipes/armorplus.items/crafting/shaped/enhanced/en_gold": {
     "criteria": {
       "has_req": "2025-05-11 02:39:02 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/ratatouille": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-11 03:26:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-05-11 03:21:16 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond": "2025-05-11 03:29:20 +0000"
     },
     "done": true
   },
@@ -2011,9 +2213,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2025-05-11 03:29:20 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/balustrade_diorite_bridge": {
     "criteria": {
       "has_planks": "2025-05-11 03:01:52 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/gold_diamond_chest": {
+    "criteria": {
+      "has_diamonds": "2025-05-11 03:29:20 +0000"
     },
     "done": true
   },
@@ -2083,6 +2297,24 @@
     },
     "done": true
   },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-05-11 03:29:20 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/onion_crate": {
+    "criteria": {
+      "has_onion": "2025-05-11 03:26:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2025-05-11 03:29:20 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/vegetable_soup": {
     "criteria": {
       "has_any_ingredient": "2025-05-11 02:58:57 +0000"
@@ -2104,6 +2336,12 @@
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2025-05-11 02:39:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-05-11 03:21:16 +0000"
     },
     "done": true
   },
