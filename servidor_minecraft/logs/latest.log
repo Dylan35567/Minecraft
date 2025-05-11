@@ -316,3 +316,13 @@
 [11May2025 03:32:28.493] [Server thread/INFO] [armorplus/]: Charge at: 28
 [11May2025 03:33:07.545] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dortodoloncio lost connection: Disconnected
 [11May2025 03:33:07.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dortodoloncio left the game
+[11May2025 03:35:18.778] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/54413, l='ServerLevel[world]', x=-369.67, y=87.53, z=-3466.70] died, message: 'Villager was slain by Zombie'
+[11May2025 03:37:21.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Amorger2: Set own game mode to Creative Mode]
+[11May2025 03:37:32.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[11May2025 03:37:32.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hola<--[HERE]
+[11May2025 03:38:45.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Amorger2: Set own game mode to Survival Mode]
+[11May2025 03:39:55.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Amorger2: Set own game mode to Creative Mode]
+[11May2025 03:40:17.530] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/74045, l='ServerLevel[world]', x=-391.49, y=95.00, z=-3534.70] died, message: 'Villager was slain by Amorger2'
+[11May2025 03:40:26.137] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/76632, l='ServerLevel[world]', x=-391.49, y=95.00, z=-3534.70] died, message: 'Villager was slain by Amorger2'
+[11May2025 03:40:37.763] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/76662, l='ServerLevel[world]', x=-391.50, y=95.00, z=-3534.70] died, message: 'Villager was slain by Amorger2'
+[11May2025 03:42:25.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Amorger2: Set own game mode to Survival Mode]
