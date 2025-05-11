@@ -186,3 +186,16 @@
 [11May2025 01:51:41.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mario444 was slain by Zombie
 [11May2025 01:52:15.411] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Amorger2[/127.221.252.161:50639] logged in with entity id 5606 at (-36.5, 70.0, 34.5)
 [11May2025 01:52:15.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Amorger2 joined the game
+[11May2025 01:52:37.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Amorger2 has made the advancement [Monster Hunter]
+[11May2025 01:52:47.608] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-31, y=76, z=30}
+[11May2025 01:52:48.408] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-31, y=76, z=30}
+[11May2025 01:52:48.661] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-30, y=76, z=30}
+[11May2025 01:52:58.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Amorger2 was slain by Piglin Brute
+[11May2025 01:53:00.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dortodoloncio has made the advancement [Stone Age]
+[11May2025 01:53:38.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dortodoloncio has made the advancement [Getting an Upgrade]
+[11May2025 01:54:33.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mario444 has made the advancement [Stone Age]
+[11May2025 01:55:40.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mario444 has made the advancement [Getting an Upgrade]
+[11May2025 01:57:05.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Amorger2 has made the advancement [Stone Age]
+[11May2025 01:57:05.371] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-15, y=64, z=18} BlockPos{x=-16, y=64, z=18}
+[11May2025 01:57:05.419] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-15, y=64, z=18} BlockPos{x=-16, y=64, z=19}
+[11May2025 01:57:36.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Amorger2 has made the advancement [Getting an Upgrade]

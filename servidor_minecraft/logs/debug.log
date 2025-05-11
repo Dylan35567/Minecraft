@@ -3623,3 +3623,21 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [11May2025 01:52:15.411] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Amorger2[/127.221.252.161:50639] logged in with entity id 5606 at (-36.5, 70.0, 34.5)
 [11May2025 01:52:15.411] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@2ab73e00 into net.minecraft.network.Connection@5afea225
 [11May2025 01:52:15.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Amorger2 joined the game
+[11May2025 01:52:37.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Amorger2 has made the advancement [Monster Hunter]
+[11May2025 01:52:44.187] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11May2025 01:52:44.194] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11May2025 01:52:47.608] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-31, y=76, z=30}
+[11May2025 01:52:48.408] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-31, y=76, z=30}
+[11May2025 01:52:48.661] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-30, y=76, z=30}
+[11May2025 01:52:58.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Amorger2 was slain by Piglin Brute
+[11May2025 01:53:00.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dortodoloncio has made the advancement [Stone Age]
+[11May2025 01:53:38.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dortodoloncio has made the advancement [Getting an Upgrade]
+[11May2025 01:54:33.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mario444 has made the advancement [Stone Age]
+[11May2025 01:55:40.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mario444 has made the advancement [Getting an Upgrade]
+[11May2025 01:55:53.562] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-3, y=66, z=9}) doesn't have enough leaves around top most log
+[11May2025 01:57:05.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Amorger2 has made the advancement [Stone Age]
+[11May2025 01:57:05.371] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-15, y=64, z=18} BlockPos{x=-16, y=64, z=18}
+[11May2025 01:57:05.419] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-15, y=64, z=18} BlockPos{x=-16, y=64, z=19}
+[11May2025 01:57:36.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Amorger2 has made the advancement [Getting an Upgrade]
+[11May2025 01:57:44.197] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11May2025 01:57:44.203] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
