@@ -888,7 +888,8 @@
       "apple": "2025-05-11 02:09:29 +0000",
       "potato": "2025-05-11 02:08:11 +0000",
       "mutton": "2025-05-11 02:44:17 +0000",
-      "bread": "2025-05-11 01:57:32 +0000"
+      "bread": "2025-05-11 01:57:32 +0000",
+      "salmon": "2025-05-11 19:54:08 +0000"
     },
     "done": false
   },
@@ -2365,6 +2366,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/grilled_salmon": {
+    "criteria": {
+      "has_salmon": "2025-05-11 19:43:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-11 18:49:29 +0000"
@@ -2380,6 +2387,12 @@
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-05-11 18:15:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-05-11 19:46:03 +0000"
     },
     "done": true
   },
@@ -2410,6 +2423,12 @@
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-11 18:49:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-05-11 19:46:03 +0000"
     },
     "done": true
   },
@@ -2485,6 +2504,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-05-11 19:43:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_wood_slab": "2025-05-11 18:15:34 +0000"
@@ -2512,6 +2537,12 @@
   "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-11 18:49:29 +0000"
+    },
+    "done": true
+  },
+  "armorplus:recipes/armorplus.items/crafting/shapeless/storage/lava_shard_to_item_adv": {
+    "criteria": {
+      "has_req": "2025-05-11 19:40:36 +0000"
     },
     "done": true
   },
@@ -2623,6 +2654,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-05-11 19:46:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2025-05-11 18:51:09 +0000"
@@ -2671,9 +2708,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-05-11 19:43:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_gold_block": {
     "criteria": {
       "has_raw_gold": "2025-05-11 18:51:09 +0000"
+    },
+    "done": true
+  },
+  "armorplus:recipes/armorplus.blocks/crafting/shaped/storage/block_lava_crystal": {
+    "criteria": {
+      "has_req": "2025-05-11 19:40:36 +0000"
     },
     "done": true
   },
@@ -2740,6 +2789,12 @@
   "minecraft:recipes/building_blocks/stone_brick_slab": {
     "criteria": {
       "has_stone_bricks": "2025-05-11 18:10:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-05-11 19:43:15 +0000"
     },
     "done": true
   },

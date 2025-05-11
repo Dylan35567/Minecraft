@@ -3689,3 +3689,34 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [11May2025 19:34:32.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dortodoloncio: Teleported Dortodoloncio to Amorger2]
 [11May2025 19:35:01.153] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [11May2025 19:35:01.159] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11May2025 19:37:41.628] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[11May2025 19:37:41.631] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[11May2025 19:37:41.663] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[11May2025 19:37:41.701] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[11May2025 19:37:41.756] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[11May2025 19:37:41.762] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[11May2025 19:37:41.765] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[11May2025 19:39:07.837] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3997ms or 79 ticks behind
+[11May2025 19:39:11.621] [Worker-Main-49/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_additions_3_pool
+[11May2025 19:39:11.622] [Worker-Main-49/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_additions_3_pool
+[11May2025 19:39:11.623] [Worker-Main-49/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_additions_3_pool
+[11May2025 19:39:11.623] [Worker-Main-49/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_end_1_pool
+[11May2025 19:39:11.624] [Worker-Main-49/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_end_1_pool
+[11May2025 19:39:11.624] [Worker-Main-49/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_end_1_pool
+[11May2025 19:39:42.538] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-484, y=77, z=-908} BlockPos{x=-483, y=77, z=-908}
+[11May2025 19:40:05.116] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11May2025 19:40:05.123] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11May2025 19:45:05.115] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11May2025 19:45:05.121] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11May2025 19:45:24.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[11May2025 19:45:24.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hola<--[HERE]
+[11May2025 19:46:10.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Amorger2: Gamerule sendCommandFeedback is now set to: false]
+[11May2025 19:46:38.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Amorger2: Gave 1 [Stone Axe] to Amorger2]
+[11May2025 19:48:02.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Amorger2: Gave 512 [Stone] to Amorger2]
+[11May2025 19:50:05.114] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11May2025 19:50:05.120] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11May2025 19:54:48.268] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dortodoloncio lost connection: Disconnected
+[11May2025 19:54:48.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dortodoloncio left the game
+[11May2025 19:55:05.087] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11May2025 19:55:05.093] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11May2025 19:55:18.209] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/62466, l='ServerLevel[world]', x=-364.89, y=88.00, z=-3460.51] died, message: 'Nitwit was slain by Zombie'
