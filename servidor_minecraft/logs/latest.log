@@ -182,3 +182,13 @@
 [11May2025 18:14:31.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [11May2025 18:14:31.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HOLA<--[HERE]
 [11May2025 18:15:11.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dortodoloncio> w
+[11May2025 18:24:42.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Amorger2: Teleported Amorger2 to mario444]
+[11May2025 18:25:08.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mario444 has made the advancement [What a Deal!]
+[11May2025 18:29:12.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mario444 was shot by Skeleton
+[11May2025 18:32:18.824] [Worker-Main-12/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[11May2025 18:32:18.824] [Worker-Main-12/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[11May2025 18:32:24.873] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13633ms or 272 ticks behind
+[11May2025 18:32:24.960] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amorger2 moved too quickly! -7.13941985806855,-7.233632006042477,0.0
+[11May2025 18:32:25.058] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mario444 moved too quickly! -2.326317145621033,0.0,9.778070529980823
+[11May2025 18:32:30.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mario444 has made the advancement [Suit Up]
+[11May2025 18:33:37.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mario444 has made the advancement [Ice Bucket Challenge]
