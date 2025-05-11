@@ -155,3 +155,34 @@
 [11May2025 01:32:44.185] [Server thread/INFO] [harmonised.pmmo.util.MsLoggy/]: PMMO Server loading process complete
 [11May2025 01:32:44.190] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: betterfpsdist.json
 [11May2025 01:40:26.248] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@290c3589[id=<null>,name=mario444,properties={},legacy=false] (/127.51.187.209:52427) lost connection: Disconnected
+[11May2025 01:42:09.193] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4567eded[id=<null>,name=mario444,properties={},legacy=false] (/127.51.187.209:46023) lost connection: Disconnected
+[11May2025 01:45:04.995] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[11May2025 01:45:05.026] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dortodoloncio[/127.221.252.161:58161] logged in with entity id 299 at (-21.5, 96.0, 35.5)
+[11May2025 01:45:05.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dortodoloncio joined the game
+[11May2025 01:45:23.863] [Worker-Main-17/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
+[11May2025 01:45:23.863] [Worker-Main-17/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
+[11May2025 01:45:25.620] [Worker-Main-19/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_4_pool
+[11May2025 01:45:25.622] [Worker-Main-19/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_2_pool
+[11May2025 01:45:25.623] [Worker-Main-19/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_3_pool
+[11May2025 01:45:25.624] [Worker-Main-19/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_3_pool
+[11May2025 01:45:25.625] [Worker-Main-19/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[11May2025 01:45:25.626] [Worker-Main-19/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[11May2025 01:45:25.627] [Worker-Main-19/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[11May2025 01:49:38.915] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mario444[/127.51.187.209:47127] logged in with entity id 3231 at (-22.5, 98.0, 39.5)
+[11May2025 01:49:38.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mario444 joined the game
+[11May2025 01:50:05.861] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-20, y=97, z=52} BlockPos{x=-17, y=98, z=48}
+[11May2025 01:50:10.007] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-20, y=97, z=52} BlockPos{x=-21, y=98, z=48}
+[11May2025 01:50:24.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dortodoloncio was slain by mario444
+[11May2025 01:50:47.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mario444 hit the ground too hard
+[11May2025 01:50:55.912] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-38, y=69, z=34}
+[11May2025 01:50:56.123] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-37, y=69, z=33}
+[11May2025 01:50:57.567] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-35, y=71, z=29}
+[11May2025 01:50:57.612] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-35, y=71, z=28}
+[11May2025 01:50:57.712] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-35, y=71, z=29}
+[11May2025 01:50:59.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dortodoloncio has made the advancement [Crops of the Wild]
+[11May2025 01:51:15.730] [Worker-Main-17/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
+[11May2025 01:51:15.731] [Worker-Main-17/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
+[11May2025 01:51:15.731] [Worker-Main-17/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_end_1_pool
+[11May2025 01:51:41.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mario444 was slain by Zombie
+[11May2025 01:52:15.411] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Amorger2[/127.221.252.161:50639] logged in with entity id 5606 at (-36.5, 70.0, 34.5)
+[11May2025 01:52:15.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Amorger2 joined the game
