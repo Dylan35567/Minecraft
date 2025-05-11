@@ -1469,6 +1469,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-05-11 03:08:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_iron_block": {
     "criteria": {
       "has_raw_iron": "2025-05-11 02:30:27 +0000"
@@ -1484,6 +1490,12 @@
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2025-05-11 02:32:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-05-11 03:08:53 +0000"
     },
     "done": true
   },
@@ -1520,6 +1532,12 @@
   "armorplus:recipes/armorplus.items/crafting/shaped/ender_dragon/ender_dragon_bow_base_alt": {
     "criteria": {
       "has_req": "2025-05-11 02:32:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-05-11 03:04:19 +0000"
     },
     "done": true
   },
@@ -1589,6 +1607,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-05-11 03:04:30 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/cooked_bacon_from_campfire_cooking": {
     "criteria": {
       "cooked_bacon": "2025-05-11 02:51:09 +0000"
@@ -1619,6 +1643,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-05-11 03:08:53 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/pig_smithing": {
     "criteria": {
       "has_pig": "2025-05-11 02:50:53 +0000"
@@ -1646,6 +1676,18 @@
   "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2025-05-11 02:30:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-05-11 03:04:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-05-11 03:04:30 +0000"
     },
     "done": true
   },

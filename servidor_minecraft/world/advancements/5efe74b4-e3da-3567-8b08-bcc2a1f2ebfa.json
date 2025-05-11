@@ -887,6 +887,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-05-11 03:03:34 +0000",
       "cooked_mutton": "2025-05-11 02:09:27 +0000",
       "cooked_beef": "2025-05-11 02:00:33 +0000",
       "mutton": "2025-05-11 02:56:00 +0000",
@@ -1791,9 +1792,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/misc/iron_nugget_from_blasting_knife": {
+    "criteria": {
+      "has_iron_knife": "2025-05-11 03:04:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2025-05-11 02:53:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-11 03:07:45 +0000"
     },
     "done": true
   },
@@ -1815,6 +1828,12 @@
     },
     "done": true
   },
+  "armorplus:recipes/armorplus.blocks/crafting/shaped/bricks/red_stone_brick": {
+    "criteria": {
+      "has_req": "2025-05-11 03:07:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2025-05-11 02:50:32 +0000"
@@ -1830,6 +1849,18 @@
   "farmersdelight:recipes/food/wheat_dough_from_eggs": {
     "criteria": {
       "has_wheat": "2025-05-11 02:39:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-11 03:07:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-11 03:07:45 +0000"
     },
     "done": true
   },
@@ -1857,9 +1888,33 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/misc/iron_nugget_from_smelting_knife": {
+    "criteria": {
+      "has_iron_knife": "2025-05-11 03:04:06 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_mutton_chops": {
+    "criteria": {
+      "cooked_mutton_chops": "2025-05-11 03:04:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs": {
     "criteria": {
       "has_stone_bricks": "2025-05-11 02:45:05 +0000"
+    },
+    "done": true
+  },
+  "armorplus:recipes/armorplus.blocks/crafting/shaped/bricks/green_stone_brick": {
+    "criteria": {
+      "has_req": "2025-05-11 03:07:45 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-11 03:01:14 +0000"
     },
     "done": true
   },
@@ -1929,9 +1984,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-05-11 03:01:14 +0000"
+    },
+    "done": true
+  },
   "armorplus:recipes/armorplus.items/crafting/shaped/ender_dragon/ender_dragon_bow_base_alt": {
     "criteria": {
       "has_req": "2025-05-11 02:36:19 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-11 03:01:14 +0000"
     },
     "done": true
   },
@@ -1989,9 +2056,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/cooked_mutton_chops_from_smoking": {
+    "criteria": {
+      "cooked_mutton_chops": "2025-05-11 03:04:07 +0000"
+    },
+    "done": true
+  },
   "armorplus:recipes/armorplus.weapons/crafting/shaped/coal/coal_bow_alt": {
     "criteria": {
       "has_req": "2025-05-11 02:36:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2025-05-11 03:04:33 +0000"
     },
     "done": true
   },
@@ -2007,9 +2086,27 @@
     },
     "done": true
   },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "wheat": "2025-05-11 03:04:54 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2025-05-11 02:55:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-11 03:07:45 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/standard_no_tanks": {
+    "criteria": {
+      "has_chest": "2025-05-11 03:07:21 +0000"
     },
     "done": true
   },
@@ -2037,9 +2134,39 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/standard": {
+    "criteria": {
+      "has_chest": "2025-05-11 03:07:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2025-05-11 02:37:59 +0000"
+    },
+    "done": true
+  },
+  "armorplus:recipes/armorplus.blocks/crafting/shaped/bricks/black_stone_brick": {
+    "criteria": {
+      "has_req": "2025-05-11 03:07:45 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/spruce_cabinet": {
+    "criteria": {
+      "has_spruce_trapdoor": "2025-05-11 03:06:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-05-11 03:01:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-05-11 03:02:35 +0000"
     },
     "done": true
   },
@@ -2061,9 +2188,27 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/oak_cabinet": {
+    "criteria": {
+      "has_oak_trapdoor": "2025-05-11 03:07:20 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/skeleton": {
     "criteria": {
       "has_arrow": "2025-05-11 02:39:13 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/balustrade_stone_bricks_bridge": {
+    "criteria": {
+      "has_planks": "2025-05-11 03:07:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-11 03:07:45 +0000"
     },
     "done": true
   },
@@ -2073,9 +2218,39 @@
     },
     "done": true
   },
+  "armorplus:recipes/armorplus.blocks/crafting/shaped/bricks/white_stone_brick": {
+    "criteria": {
+      "has_req": "2025-05-11 03:07:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab": {
     "criteria": {
       "has_stone_bricks": "2025-05-11 02:45:05 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_mutton_chops_from_campfire_cooking": {
+    "criteria": {
+      "cooked_mutton_chops": "2025-05-11 03:04:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-11 03:07:45 +0000"
+    },
+    "done": true
+  },
+  "armorplus:recipes/armorplus.blocks/crafting/shaped/bricks/orange_stone_brick": {
+    "criteria": {
+      "has_req": "2025-05-11 03:07:45 +0000"
+    },
+    "done": true
+  },
+  "armorplus:recipes/armorplus.blocks/crafting/shaped/bricks/purple_stone_brick": {
+    "criteria": {
+      "has_req": "2025-05-11 03:07:45 +0000"
     },
     "done": true
   },
@@ -2097,6 +2272,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-05-11 03:01:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_axe": "2025-05-11 02:38:00 +0000"
@@ -2109,15 +2290,39 @@
     },
     "done": true
   },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-05-11 03:04:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/raw_iron": {
     "criteria": {
       "has_raw_iron_block": "2025-05-11 02:46:20 +0000"
     },
     "done": true
   },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "iron_knife": "2025-05-11 03:04:06 +0000"
+    },
+    "done": true
+  },
   "armorplus:recipes/armorplus.items/crafting/shaped/super_star/super_star_bow_base_alt": {
     "criteria": {
       "has_req": "2025-05-11 02:36:19 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/stone_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-05-11 03:07:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-05-11 03:04:33 +0000"
     },
     "done": true
   },
@@ -2157,6 +2362,18 @@
     },
     "done": true
   },
+  "armorplus:recipes/armorplus.blocks/crafting/shaped/bricks/blue_stone_brick": {
+    "criteria": {
+      "has_req": "2025-05-11 03:07:45 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/pig": {
+    "criteria": {
+      "has_porkchop": "2025-05-11 03:01:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2025-05-11 02:36:19 +0000"
@@ -2181,6 +2398,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/stone_brick_bridge": {
+    "criteria": {
+      "has_planks": "2025-05-11 03:07:45 +0000"
+    },
+    "done": true
+  },
   "armorplus:recipes/armorplus.weapons/crafting/shaped/obsidian/obsidian_bow_alt": {
     "criteria": {
       "has_req": "2025-05-11 02:36:19 +0000"
@@ -2196,6 +2419,12 @@
   "travelersbackpack:recipes/misc/hay": {
     "criteria": {
       "has_wheat": "2025-05-11 02:39:22 +0000"
+    },
+    "done": true
+  },
+  "armorplus:recipes/armorplus.blocks/crafting/shaped/bricks/yellow_stone_brick": {
+    "criteria": {
+      "has_req": "2025-05-11 03:07:45 +0000"
     },
     "done": true
   },
