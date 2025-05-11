@@ -1,316 +1,292 @@
-[11May2025 01:32:04.412] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[11May2025 01:32:04.419] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
-[11May2025 01:32:06.152] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[11May2025 01:32:06.294] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Minecraft/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[11May2025 01:32:06.817] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Minecraft/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[11May2025 01:32:06.819] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Minecraft/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[11May2025 01:32:06.822] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Minecraft/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[11May2025 01:32:06.825] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Minecraft/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[11May2025 01:32:07.055] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
-[11May2025 01:32:07.056] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 10 dependencies adding them to mods collection
-[11May2025 01:32:09.040] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[11May2025 01:32:09.154] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[11May2025 01:32:09.299] [main/INFO] [fpsreducer/]: OptiFine was NOT detected.
-[11May2025 01:32:09.302] [main/INFO] [fpsreducer/]: OptiFabric was NOT detected.
-[11May2025 01:32:10.654] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[11May2025 01:32:16.308] [main/WARN] [mixin/]: @Final field f_26027_:Lnet/minecraft/world/entity/ai/targeting/TargetingConditions; in guardvillagers.mixins.json:DefendVillageGoalGolemMixin should be final
-[11May2025 01:32:17.799] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialize mod Library Ferret
-[11May2025 01:32:17.823] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialized mod Library Ferret
-[11May2025 01:32:17.836] [modloading-worker-0/INFO] [dynamiclights/]: [Dynamic Lights] Registering server started event...
-[11May2025 01:32:18.156] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[11May2025 01:32:18.157] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
-[11May2025 01:32:18.163] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
-[11May2025 01:32:18.171] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
-[11May2025 01:32:18.172] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
-[11May2025 01:32:18.173] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
-[11May2025 01:32:18.174] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
-[11May2025 01:32:18.175] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
-[11May2025 01:32:18.193] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/Minecraft/servidor_minecraft/config/guardvillagers-common.toml is not correct. Correcting
-[11May2025 01:32:18.360] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[11May2025 01:32:18.360] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[11May2025 01:32:19.072] [modloading-worker-0/INFO] [ironfurnaces.IronFurnaces/]: Initializing Update Checker...
-[11May2025 01:32:19.077] [ Iron Furnaces Update Checker/INFO] [ironfurnaces.IronFurnaces/]: Starting Update Check...
-[11May2025 01:32:19.153] [ Iron Furnaces Update Checker/INFO] [ironfurnaces.IronFurnaces/]: Update Check done!
-[11May2025 01:32:19.163] [ Iron Furnaces Update Checker/INFO] [ironfurnaces.IronFurnaces/]: Iron Furnaces is up to date!
-[11May2025 01:32:19.178] [modloading-worker-0/INFO] [com.autovw.advancednetherite.AdvancedNetherite/]: Initializing platform helper for Advanced Netherite!
-[11May2025 01:32:19.639] [modloading-worker-0/INFO] [KubeJS/]: Loaded common.properties
-[11May2025 01:32:19.643] [modloading-worker-0/INFO] [KubeJS/]: Loaded dev.properties
-[11May2025 01:32:19.662] [modloading-worker-0/INFO] [com.cupboard.Cupboard/]: Loaded config for: cupboard.json
-[11May2025 01:32:19.663] [modloading-worker-0/INFO] [KubeJS/]: Looking for KubeJS plugins...
-[11May2025 01:32:19.666] [modloading-worker-0/INFO] [thedragonlib/]: Welcoming Minecraft
-[11May2025 01:32:19.669] [modloading-worker-0/INFO] [KubeJS/]: Found plugin source kubejs
-[11May2025 01:32:19.687] [modloading-worker-0/WARN] [KubeJS/]: Plugin dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin does not load on server side, skipping
-[11May2025 01:32:19.691] [modloading-worker-0/WARN] [KubeJS/]: Plugin dev.latvian.mods.kubejs.integration.forge.gamestages.GameStagesIntegration does not have required mod gamestages loaded, skipping
-[11May2025 01:32:19.697] [modloading-worker-0/INFO] [KubeJS/]: Done in 30.44 ms
-[11May2025 01:32:19.737] [modloading-worker-0/INFO] [thedarkcolour.kotlinforforge.test.KotlinForForge/]: Kotlin For Forge Enabled!
-[11May2025 01:32:19.787] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
-[11May2025 01:32:19.963] [modloading-worker-0/INFO] [Rhino Script Remapper/]: Loading Rhino Minecraft remapper...
-[11May2025 01:32:19.966] [modloading-worker-0/INFO] [dev.latvian.mods.rhino.mod.util.RhinoProperties/]: Rhino properties loaded.
-[11May2025 01:32:19.982] [modloading-worker-0/INFO] [Rhino Script Remapper/]: Loading mappings for 1.20.1
-[11May2025 01:32:20.096] [modloading-worker-0/INFO] [Rhino Script Remapper/]: Done in 0.132 s
-[11May2025 01:32:20.468] [modloading-worker-0/INFO] [KubeJS Startup/]: example.js#5: Hello, World! (Loaded startup scripts)
-[11May2025 01:32:20.471] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script startup_scripts:example.js in 0.053 s
-[11May2025 01:32:20.477] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded 1/1 KubeJS startup scripts in 0.375 s with 0 errors and 0 warnings
-[11May2025 01:32:20.513] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id kubejs:send_data_from_client
-[11May2025 01:32:20.516] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id kubejs:first_click
-[11May2025 01:32:21.609] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:loot_table_alias
-[11May2025 01:32:21.622] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:data_handler_type
-[11May2025 01:32:21.626] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:dynamic_spawner
-[11May2025 01:32:21.630] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:jigsaw_type
-[11May2025 01:32:21.751] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/Minecraft/servidor_minecraft/config/guardvillagers-common.toml is not correct. Correcting
-[11May2025 01:32:21.818] [modloading-worker-0/INFO] [dynamiclights/]: [Dynamic Lights] Loaded Dynamic Lights by Tschipcraft successfully!
-[11May2025 01:32:21.848] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_stellarity] Starting version check at https://api.modrinth.com/updates/bZgeDzN8/forge_updates.json
-[11May2025 01:32:22.094] [modloading-worker-0/INFO] [harmonised.pmmo.util.MsLoggy/]: Messages Registered
-[11May2025 01:32:22.104] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_stellarity] Found status: BETA_OUTDATED Current: 2.0d Target: 2.0e
-[11May2025 01:32:22.110] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dynamiclights] Starting version check at https://api.modrinth.com/updates/7YjclEGc/forge_updates.json
-[11May2025 01:32:22.153] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dynamiclights] Found status: AHEAD Current: 1.8.3+mod Target: null
-[11May2025 01:32:22.155] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
-[11May2025 01:32:22.326] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: BETA Current: 5.10.3 Target: null
-[11May2025 01:32:22.327] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
-[11May2025 01:32:22.373] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: AHEAD Current: 9.1.36 Target: null
-[11May2025 01:32:22.376] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [guardvillagers] Starting version check at https://raw.githubusercontent.com/seymourimadeit/guardvillagers/master/update.json
-[11May2025 01:32:22.412] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [guardvillagers] Found status: BETA Current: 1.20.1-1.6.10 Target: 1.20-1.6.5
-[11May2025 01:32:22.412] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [crafttweaker] Starting version check at https://updates.blamejared.com/get?n=crafttweaker&gv=1.20.1
-[11May2025 01:32:22.515] [main/INFO] [journeymap/]: Initializing Packet Registries
-[11May2025 01:32:22.553] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
-[11May2025 01:32:22.554] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
-[11May2025 01:32:22.555] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
-[11May2025 01:32:22.556] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
-[11May2025 01:32:22.765] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [crafttweaker] Found status: BETA Current: 14.0.57 Target: 14.0.57
-[11May2025 01:32:22.765] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[11May2025 01:32:22.877] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
-[11May2025 01:32:22.877] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [structure_gel] Starting version check at http://changelogs.moddinglegacy.com/structure-gel.json
-[11May2025 01:32:23.161] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [structure_gel] Found status: BETA Current: 2.16.2 Target: null
-[11May2025 01:32:23.161] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwbridges] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/bridges.json
-[11May2025 01:32:23.188] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwbridges] Found status: UP_TO_DATE Current: 3.0.0 Target: null
-[11May2025 01:32:23.189] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Starting version check at https://update.maxhenkel.de/forge/gravestone
-[11May2025 01:32:23.693] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Found status: AHEAD Current: 1.20.1-1.0.24 Target: null
-[11May2025 01:32:23.694] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancednetherite] Starting version check at https://raw.githubusercontent.com/Autovw/ModUpdates/master/advancednetherite/update.json
-[11May2025 01:32:23.705] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancednetherite] Found status: BETA Current: 2.1.3 Target: 2.1.3
-[11May2025 01:32:23.705] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [thedragonlib] Starting version check at https://raw.githubusercontent.com/sokratis12GR/TheDragonLib/1.19/thedragonlib-updater.json
-[11May2025 01:32:23.716] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [thedragonlib] Found status: BETA Current: 1.20.1-1.0.0 Target: null
-[11May2025 01:32:23.717] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dynamic_fps] Starting version check at https://api.lostluma.net/updates/dynamic-fps?platform=forge
-[11May2025 01:32:24.070] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dynamic_fps] Found status: OUTDATED Current: 3.9.3 Target: 3.9.4
-[11May2025 01:32:24.070] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [armorplus] Starting version check at https://sokratis.space/armorplus/1.20/update.json
-[11May2025 01:32:24.118] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[11May2025 01:32:24.200] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [armorplus] Found status: OUTDATED Current: 1.20.1-20.0.2 Target: 1.20.2-20.0.2
-[11May2025 01:32:25.047] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Minecraft/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23207!/assets/.mcassetsroot' uses unexpected schema
-[11May2025 01:32:25.047] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Minecraft/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23207!/data/.mcassetsroot' uses unexpected schema
-[11May2025 01:32:25.169] [main/INFO] [KubeJS Server/]: Loaded script server_scripts:remove_bugged_recipes.js in 0.007 s
-[11May2025 01:32:25.169] [main/INFO] [KubeJS Server/]: example.js#5: Hello, World! (Loaded server scripts)
-[11May2025 01:32:25.170] [main/INFO] [KubeJS Server/]: Loaded script server_scripts:example.js in 0.001 s
-[11May2025 01:32:25.170] [main/INFO] [KubeJS Server/]: Loaded 2/2 KubeJS server scripts in 0.025 s with 0 errors and 0 warnings
-[11May2025 01:32:25.171] [main/INFO] [KubeJS Server/]: Scripts loaded
-[11May2025 01:32:25.178] [main/INFO] [KubeJS Server/]: Initializing recipe event...
-[11May2025 01:32:25.212] [main/ERROR] [net.minecraft.Util/]: Invalid path in pack: fokastudio:worldgen/biome/README.md, ignoring
-[11May2025 01:32:25.791] [main/INFO] [bettervillage/]: StructureSet modified for minecraft:village : Now using custom village configuration (can be disabled in the better villages config: boolean.villages.enabled_custom_config).
-[11May2025 01:32:28.352] [main/INFO] [KubeJS Server/]: Processing recipes...
-[11May2025 01:32:28.407] [main/WARN] [KubeJS Server/]: Failed to parse recipe 'seadwellers:depth_helmet[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
-[11May2025 01:32:28.421] [main/WARN] [KubeJS Server/]: Failed to parse recipe 'armorplus:crafting/shapeless/patchouli/ap_book[minecraft:crafting_shapeless]'! Falling back to vanilla: ItemStack 'result' can't be empty!
-[11May2025 01:32:28.467] [main/INFO] [KubeJS Server/]: Found 2523 recipes in 112.4 ms
-[11May2025 01:32:28.482] [main/INFO] [KubeJS Server/]: Posted recipe events in 14.73 ms
-[11May2025 01:32:28.592] [KubeJS Recipe Event Worker 0/WARN] [KubeJS Server/]: Error parsing recipe armorplus:crafting/shapeless/patchouli/ap_book[minecraft:crafting_shapeless]: {"type":"minecraft:crafting_shapeless","group":"armorplus:books","ingredients":[{"item":"armorplus:lava_crystal"},{"item":"minecraft:book"}],"result":{"item":"patchouli:guide_book","nbt":{"patchouli:book":"armorplus:guide_book"},"count":1}}: Unknown item 'patchouli:guide_book'
-[11May2025 01:32:28.635] [main/INFO] [KubeJS Server/]: Added 0 recipes, removed 0 recipes, modified 0 recipes, with 1 failed recipes in 146.8 ms
-[11May2025 01:32:28.788] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2479 advancements
-[11May2025 01:32:28.819] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio slots
-[11May2025 01:32:28.825] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio entities
-[11May2025 01:32:30.010] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[11May2025 01:32:30.010] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[11May2025 01:32:30.011] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[11May2025 01:32:30.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[11May2025 01:32:30.107] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[11May2025 01:32:30.141] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[11May2025 01:32:30.237] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[11May2025 01:32:30.237] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[11May2025 01:32:30.238] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[11May2025 01:32:30.238] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[11May2025 01:32:30.257] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[11May2025 01:32:30.257] [Thread-3/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[11May2025 01:32:30.258] [Thread-3/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[11May2025 01:32:30.361] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[11May2025 01:32:35.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[11May2025 01:32:35.989] [Server thread/INFO] [KubeJS Server/]: Server resource reload complete!
-[11May2025 01:32:43.009] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[11May2025 01:32:43.010] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[11May2025 01:32:43.011] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[11May2025 01:32:43.012] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[11May2025 01:32:43.013] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[11May2025 01:32:43.013] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[11May2025 01:32:43.014] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[11May2025 01:32:43.015] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[11May2025 01:32:43.017] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[11May2025 01:32:43.018] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[11May2025 01:32:43.019] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[11May2025 01:32:43.022] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[11May2025 01:32:43.024] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[11May2025 01:32:43.027] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[11May2025 01:32:43.028] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[11May2025 01:32:43.486] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 9%
-[11May2025 01:32:43.984] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 84%
-[11May2025 01:32:44.112] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 8128 ms
-[11May2025 01:32:44.113] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (13.861s)! For help, type "help"
-[11May2025 01:32:44.152] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[11May2025 01:32:44.183] [Server thread/INFO] [harmonised.pmmo.util.MsLoggy/]: Loading PMMO Saved Data
-[11May2025 01:32:44.184] [Server thread/INFO] [harmonised.pmmo.util.MsLoggy/]: Computing data for cache
-[11May2025 01:32:44.185] [Server thread/INFO] [harmonised.pmmo.util.MsLoggy/]: PMMO Server loading process complete
-[11May2025 01:32:44.190] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: betterfpsdist.json
-[11May2025 01:40:26.248] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@290c3589[id=<null>,name=mario444,properties={},legacy=false] (/127.51.187.209:52427) lost connection: Disconnected
-[11May2025 01:42:09.193] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4567eded[id=<null>,name=mario444,properties={},legacy=false] (/127.51.187.209:46023) lost connection: Disconnected
-[11May2025 01:45:04.995] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
-[11May2025 01:45:05.026] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dortodoloncio[/127.221.252.161:58161] logged in with entity id 299 at (-21.5, 96.0, 35.5)
-[11May2025 01:45:05.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dortodoloncio joined the game
-[11May2025 01:45:23.863] [Worker-Main-17/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
-[11May2025 01:45:23.863] [Worker-Main-17/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
-[11May2025 01:45:25.620] [Worker-Main-19/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_4_pool
-[11May2025 01:45:25.622] [Worker-Main-19/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_2_pool
-[11May2025 01:45:25.623] [Worker-Main-19/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_3_pool
-[11May2025 01:45:25.624] [Worker-Main-19/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_3_pool
-[11May2025 01:45:25.625] [Worker-Main-19/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
-[11May2025 01:45:25.626] [Worker-Main-19/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
-[11May2025 01:45:25.627] [Worker-Main-19/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
-[11May2025 01:49:38.915] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mario444[/127.51.187.209:47127] logged in with entity id 3231 at (-22.5, 98.0, 39.5)
-[11May2025 01:49:38.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mario444 joined the game
-[11May2025 01:50:05.861] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-20, y=97, z=52} BlockPos{x=-17, y=98, z=48}
-[11May2025 01:50:10.007] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-20, y=97, z=52} BlockPos{x=-21, y=98, z=48}
-[11May2025 01:50:24.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dortodoloncio was slain by mario444
-[11May2025 01:50:47.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mario444 hit the ground too hard
-[11May2025 01:50:55.912] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-38, y=69, z=34}
-[11May2025 01:50:56.123] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-37, y=69, z=33}
-[11May2025 01:50:57.567] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-35, y=71, z=29}
-[11May2025 01:50:57.612] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-35, y=71, z=28}
-[11May2025 01:50:57.712] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-35, y=71, z=29}
-[11May2025 01:50:59.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dortodoloncio has made the advancement [Crops of the Wild]
-[11May2025 01:51:15.730] [Worker-Main-17/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
-[11May2025 01:51:15.731] [Worker-Main-17/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
-[11May2025 01:51:15.731] [Worker-Main-17/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_end_1_pool
-[11May2025 01:51:41.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mario444 was slain by Zombie
-[11May2025 01:52:15.411] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Amorger2[/127.221.252.161:50639] logged in with entity id 5606 at (-36.5, 70.0, 34.5)
-[11May2025 01:52:15.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Amorger2 joined the game
-[11May2025 01:52:37.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Amorger2 has made the advancement [Monster Hunter]
-[11May2025 01:52:47.608] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-31, y=76, z=30}
-[11May2025 01:52:48.408] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-31, y=76, z=30}
-[11May2025 01:52:48.661] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-30, y=76, z=30}
-[11May2025 01:52:58.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Amorger2 was slain by Piglin Brute
-[11May2025 01:53:00.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dortodoloncio has made the advancement [Stone Age]
-[11May2025 01:53:38.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dortodoloncio has made the advancement [Getting an Upgrade]
-[11May2025 01:54:33.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mario444 has made the advancement [Stone Age]
-[11May2025 01:55:40.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mario444 has made the advancement [Getting an Upgrade]
-[11May2025 01:57:05.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Amorger2 has made the advancement [Stone Age]
-[11May2025 01:57:05.371] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-15, y=64, z=18} BlockPos{x=-16, y=64, z=18}
-[11May2025 01:57:05.419] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-15, y=64, z=18} BlockPos{x=-16, y=64, z=19}
-[11May2025 01:57:36.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Amorger2 has made the advancement [Getting an Upgrade]
-[11May2025 02:03:05.712] [Worker-Main-24/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:miner_main_room_pool
-[11May2025 02:03:05.713] [Worker-Main-24/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:miner_additions_3_pool
-[11May2025 02:03:05.713] [Worker-Main-24/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:miner_additions_1_pool
-[11May2025 02:03:05.713] [Worker-Main-24/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:miner_additions_2_pool
-[11May2025 02:03:32.995] [Worker-Main-18/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:house_basement_pool
-[11May2025 02:03:32.996] [Worker-Main-18/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
-[11May2025 02:03:32.996] [Worker-Main-18/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
-[11May2025 02:03:32.997] [Worker-Main-18/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_end_1_pool
-[11May2025 02:03:32.997] [Worker-Main-18/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_end_1_pool
-[11May2025 02:07:14.802] [Worker-Main-18/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_2_pool
-[11May2025 02:07:14.803] [Worker-Main-18/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_4_pool
-[11May2025 02:07:14.803] [Worker-Main-18/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_3_pool
-[11May2025 02:07:14.804] [Worker-Main-18/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_1_pool
-[11May2025 02:07:14.804] [Worker-Main-18/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_3_pool
-[11May2025 02:07:14.806] [Worker-Main-18/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_3_pool
-[11May2025 02:07:14.806] [Worker-Main-18/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
-[11May2025 02:07:14.806] [Worker-Main-18/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
-[11May2025 02:07:14.806] [Worker-Main-18/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
-[11May2025 02:07:23.970] [Server thread/ERROR] [net.minecraft.Util/]: onTrackingStart called during navigation iteration
-java.lang.IllegalStateException: onTrackingStart called during navigation iteration
-	at net.minecraft.server.level.ServerLevel$EntityCallbacks.m_141985_(ServerLevel.java:1514) ~[server-1.20.1-20230612.114412-srg.jar%23207!/:?]
-	at net.minecraft.server.level.ServerLevel$EntityCallbacks.m_141985_(ServerLevel.java:1488) ~[server-1.20.1-20230612.114412-srg.jar%23207!/:?]
-	at net.minecraft.world.level.entity.PersistentEntitySectionManager.m_157575_(PersistentEntitySectionManager.java:136) ~[server-1.20.1-20230612.114412-srg.jar%23207!/:?]
-	at java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:183) ~[?:?]
-	at java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179) ~[?:?]
-	at java.util.Iterator.forEachRemaining(Iterator.java:133) ~[?:?]
-	at java.util.Spliterators$IteratorSpliterator.forEachRemaining(Spliterators.java:1845) ~[?:?]
-	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?]
-	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
-	at java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150) ~[?:?]
-	at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173) ~[?:?]
-	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
-	at java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596) ~[?:?]
-	at net.minecraft.world.level.entity.PersistentEntitySectionManager.m_157543_(PersistentEntitySectionManager.java:179) ~[server-1.20.1-20230612.114412-srg.jar%23207!/:?]
-	at java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:183) ~[?:?]
-	at java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179) ~[?:?]
-	at java.util.stream.LongPipeline$1$1.accept(LongPipeline.java:177) ~[?:?]
-	at java.util.PrimitiveIterator$OfLong.forEachRemaining(PrimitiveIterator.java:183) ~[?:?]
-	at java.util.Spliterators$LongIteratorSpliterator.forEachRemaining(Spliterators.java:2046) ~[?:?]
-	at java.util.Spliterator$OfLong.forEachRemaining(Spliterator.java:775) ~[?:?]
-	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?]
-	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
-	at java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150) ~[?:?]
-	at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173) ~[?:?]
-	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
-	at java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596) ~[?:?]
-	at net.minecraft.world.level.entity.PersistentEntitySectionManager.m_157527_(PersistentEntitySectionManager.java:160) ~[server-1.20.1-20230612.114412-srg.jar%23207!/:?]
-	at net.minecraft.world.level.entity.PersistentEntitySectionManager.m_287207_(PersistentEntitySectionManager.java:146) ~[server-1.20.1-20230612.114412-srg.jar%23207!/:?]
-	at net.minecraft.server.level.ChunkMap.m_287285_(ChunkMap.java:1307) ~[server-1.20.1-20230612.114412-srg.jar%23207!/:?]
-	at net.minecraft.server.level.ChunkHolder.m_287043_(ChunkHolder.java:334) ~[server-1.20.1-20230612.114412-srg.jar%23207!/:?]
-	at java.util.concurrent.CompletableFuture$UniRun.tryFire(CompletableFuture.java:787) ~[?:?]
-	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
-	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23207!/:?]
-	at net.minecraft.server.level.ServerChunkCache$MainThreadExecutor.m_6367_(ServerChunkCache.java:541) ~[server-1.20.1-20230612.114412-srg.jar%23207!/:?]
-	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23207!/:?]
-	at net.minecraft.server.level.ServerChunkCache$MainThreadExecutor.m_7245_(ServerChunkCache.java:549) ~[server-1.20.1-20230612.114412-srg.jar%23207!/:?]
-	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23207!/:?]
-	at net.minecraft.server.level.ServerChunkCache.m_7587_(ServerChunkCache.java:131) ~[server-1.20.1-20230612.114412-srg.jar%23207!/:?]
-	at net.minecraft.world.level.Level.m_6522_(Level.java:187) ~[server-1.20.1-20230612.114412-srg.jar%23207!/:?]
-	at net.minecraft.world.level.LevelReader.m_46819_(LevelReader.java:129) ~[server-1.20.1-20230612.114412-srg.jar%23207!/:?]
-	at net.minecraft.world.level.Level.m_6325_(Level.java:182) ~[server-1.20.1-20230612.114412-srg.jar%23207!/:?]
-	at net.minecraft.world.level.Level.m_8055_(Level.java:355) ~[server-1.20.1-20230612.114412-srg.jar%23207!/:?]
-	at net.minecraft.world.entity.ai.navigation.GroundPathNavigation.m_7864_(GroundPathNavigation.java:43) ~[server-1.20.1-20230612.114412-srg.jar%23207!/:?]
-	at net.minecraft.world.entity.ai.navigation.PathNavigation.m_26569_(PathNavigation.java:86) ~[server-1.20.1-20230612.114412-srg.jar%23207!/:?]
-	at net.minecraft.server.level.ServerLevel.m_7260_(ServerLevel.java:965) ~[server-1.20.1-20230612.114412-srg.jar%23207!/:?]
-	at net.minecraft.world.level.Level.markAndNotifyBlock(Level.java:247) ~[server-1.20.1-20230612.114412-srg.jar%23207!/:?]
-	at net.minecraft.world.level.Level.m_6933_(Level.java:227) ~[server-1.20.1-20230612.114412-srg.jar%23207!/:?]
-	at net.minecraft.world.level.Level.m_7731_(Level.java:196) ~[server-1.20.1-20230612.114412-srg.jar%23207!/:?]
-	at net.minecraft.world.level.block.DoorBlock.m_153165_(DoorBlock.java:214) ~[server-1.20.1-20230612.114412-srg.jar%23207!/:?]
-	at net.minecraft.world.entity.ai.behavior.InteractWithDoor.m_257204_(InteractWithDoor.java:87) ~[server-1.20.1-20230612.114412-srg.jar%23207!/:?]
-	at net.minecraft.world.entity.ai.behavior.declarative.BehaviorBuilder$1.m_257808_(BehaviorBuilder.java:53) ~[server-1.20.1-20230612.114412-srg.jar%23207!/:?]
-	at net.minecraft.world.entity.ai.behavior.OneShot.m_22554_(OneShot.java:20) ~[server-1.20.1-20230612.114412-srg.jar%23207!/:?]
-	at net.minecraft.world.entity.ai.Brain.m_21957_(Brain.java:432) ~[server-1.20.1-20230612.114412-srg.jar%23207!/:?]
-	at net.minecraft.world.entity.ai.Brain.m_21865_(Brain.java:389) ~[server-1.20.1-20230612.114412-srg.jar%23207!/:?]
-	at net.minecraft.world.entity.npc.Villager.m_8024_(Villager.java:209) ~[server-1.20.1-20230612.114412-srg.jar%23207!/:?]
-	at net.minecraft.world.entity.Mob.m_6140_(Mob.java:768) ~[server-1.20.1-20230612.114412-srg.jar%23207!/:?]
-	at net.minecraft.world.entity.LivingEntity.m_8107_(LivingEntity.java:2548) ~[server-1.20.1-20230612.114412-srg.jar%23207!/:?]
-	at net.minecraft.world.entity.Mob.m_8107_(Mob.java:536) ~[server-1.20.1-20230612.114412-srg.jar%23207!/:?]
-	at net.minecraft.world.entity.AgeableMob.m_8107_(AgeableMob.java:128) ~[server-1.20.1-20230612.114412-srg.jar%23207!/:?]
-	at net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntity.java:2298) ~[server-1.20.1-20230612.114412-srg.jar%23207!/:?]
-	at net.minecraft.world.entity.Mob.m_8119_(Mob.java:337) ~[server-1.20.1-20230612.114412-srg.jar%23207!/:?]
-	at net.minecraft.world.entity.npc.Villager.m_8119_(Villager.java:248) ~[server-1.20.1-20230612.114412-srg.jar%23207!/:?]
-	at net.minecraft.server.level.ServerLevel.m_8647_(ServerLevel.java:693) ~[server-1.20.1-20230612.114412-srg.jar%23207!/:?]
-	at net.minecraft.world.level.Level.m_46653_(Level.java:479) ~[server-1.20.1-20230612.114412-srg.jar%23207!/:?]
-	at net.minecraft.server.level.ServerLevel.m_184063_(ServerLevel.java:343) ~[server-1.20.1-20230612.114412-srg.jar%23207!/:?]
-	at net.minecraft.world.level.entity.EntityTickList.m_156910_(EntityTickList.java:54) ~[server-1.20.1-20230612.114412-srg.jar%23207!/:?]
-	at net.minecraft.server.level.ServerLevel.m_8793_(ServerLevel.java:323) ~[server-1.20.1-20230612.114412-srg.jar%23207!/:?]
-	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:893) ~[server-1.20.1-20230612.114412-srg.jar%23207!/:?]
-	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283) ~[server-1.20.1-20230612.114412-srg.jar%23207!/:?]
-	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814) ~[server-1.20.1-20230612.114412-srg.jar%23207!/:?]
-	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661) ~[server-1.20.1-20230612.114412-srg.jar%23207!/:?]
-	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23207!/:?]
-	at java.lang.Thread.run(Thread.java:840) ~[?:?]
-[11May2025 02:07:28.753] [Worker-Main-18/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
-[11May2025 02:07:28.754] [Worker-Main-18/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
-[11May2025 02:07:28.754] [Worker-Main-18/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_end_1_pool
-[11May2025 02:07:43.252] [Worker-Main-18/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_2_pool
-[11May2025 02:07:43.253] [Worker-Main-18/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_4_pool
-[11May2025 02:07:43.253] [Worker-Main-18/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_3_pool
-[11May2025 02:07:43.253] [Worker-Main-18/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
-[11May2025 02:07:43.254] [Worker-Main-18/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
-[11May2025 02:09:33.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Amorger2 has made the advancement [Amateur Archaeologist]
-[11May2025 02:10:35.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Amorger2 has made the advancement [Acquire Hardware]
-[11May2025 02:10:37.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Amorger2 has made the advancement [Isn't It Iron Pick]
-[11May2025 02:10:48.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Amorger2 was doomed to fall by Skeleton
-[11May2025 02:11:32.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dortodoloncio was slain by Chort
-[11May2025 02:11:40.738] [Worker-Main-18/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_2_pool
-[11May2025 02:11:40.739] [Worker-Main-18/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_4_pool
-[11May2025 02:11:40.739] [Worker-Main-18/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_3_pool
-[11May2025 02:11:40.739] [Worker-Main-18/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_1_pool
-[11May2025 02:11:40.739] [Worker-Main-18/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_3_pool
-[11May2025 02:11:40.740] [Worker-Main-18/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
-[11May2025 02:11:40.740] [Worker-Main-18/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
-[11May2025 02:11:40.740] [Worker-Main-18/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
-[11May2025 02:11:40.740] [Worker-Main-18/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[11May2025 02:23:11.392] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[11May2025 02:23:11.398] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
+[11May2025 02:23:13.188] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[11May2025 02:23:13.252] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Minecraft/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[11May2025 02:23:13.675] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Minecraft/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[11May2025 02:23:13.680] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Minecraft/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[11May2025 02:23:13.682] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Minecraft/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[11May2025 02:23:13.685] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Minecraft/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[11May2025 02:23:13.950] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[11May2025 02:23:13.952] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 10 dependencies adding them to mods collection
+[11May2025 02:23:16.361] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[11May2025 02:23:16.502] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[11May2025 02:23:16.704] [main/INFO] [fpsreducer/]: OptiFine was NOT detected.
+[11May2025 02:23:16.706] [main/INFO] [fpsreducer/]: OptiFabric was NOT detected.
+[11May2025 02:23:18.592] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[11May2025 02:23:24.919] [main/WARN] [mixin/]: @Final field f_26027_:Lnet/minecraft/world/entity/ai/targeting/TargetingConditions; in guardvillagers.mixins.json:DefendVillageGoalGolemMixin should be final
+[11May2025 02:23:26.846] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialize mod Library Ferret
+[11May2025 02:23:26.898] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialized mod Library Ferret
+[11May2025 02:23:26.904] [modloading-worker-0/INFO] [dynamiclights/]: [Dynamic Lights] Registering server started event...
+[11May2025 02:23:27.365] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[11May2025 02:23:27.370] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
+[11May2025 02:23:27.384] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
+[11May2025 02:23:27.389] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
+[11May2025 02:23:27.403] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
+[11May2025 02:23:27.406] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
+[11May2025 02:23:27.419] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
+[11May2025 02:23:27.420] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/Minecraft/servidor_minecraft/config/guardvillagers-common.toml is not correct. Correcting
+[11May2025 02:23:27.431] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
+[11May2025 02:23:27.880] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[11May2025 02:23:27.882] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[11May2025 02:23:28.644] [modloading-worker-0/INFO] [ironfurnaces.IronFurnaces/]: Initializing Update Checker...
+[11May2025 02:23:28.648] [ Iron Furnaces Update Checker/INFO] [ironfurnaces.IronFurnaces/]: Starting Update Check...
+[11May2025 02:23:28.784] [ Iron Furnaces Update Checker/INFO] [ironfurnaces.IronFurnaces/]: Update Check done!
+[11May2025 02:23:28.784] [ Iron Furnaces Update Checker/INFO] [ironfurnaces.IronFurnaces/]: Iron Furnaces is up to date!
+[11May2025 02:23:28.813] [modloading-worker-0/INFO] [com.autovw.advancednetherite.AdvancedNetherite/]: Initializing platform helper for Advanced Netherite!
+[11May2025 02:23:29.159] [modloading-worker-0/INFO] [KubeJS/]: Loaded common.properties
+[11May2025 02:23:29.164] [modloading-worker-0/INFO] [KubeJS/]: Loaded dev.properties
+[11May2025 02:23:29.183] [modloading-worker-0/INFO] [KubeJS/]: Looking for KubeJS plugins...
+[11May2025 02:23:29.194] [modloading-worker-0/INFO] [KubeJS/]: Found plugin source kubejs
+[11May2025 02:23:29.213] [modloading-worker-0/WARN] [KubeJS/]: Plugin dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin does not load on server side, skipping
+[11May2025 02:23:29.214] [modloading-worker-0/WARN] [KubeJS/]: Plugin dev.latvian.mods.kubejs.integration.forge.gamestages.GameStagesIntegration does not have required mod gamestages loaded, skipping
+[11May2025 02:23:29.220] [modloading-worker-0/INFO] [KubeJS/]: Done in 36.58 ms
+[11May2025 02:23:29.226] [modloading-worker-0/INFO] [com.cupboard.Cupboard/]: Loaded config for: cupboard.json
+[11May2025 02:23:29.231] [modloading-worker-0/INFO] [thedragonlib/]: Welcoming Minecraft
+[11May2025 02:23:29.408] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
+[11May2025 02:23:29.429] [modloading-worker-0/INFO] [thedarkcolour.kotlinforforge.test.KotlinForForge/]: Kotlin For Forge Enabled!
+[11May2025 02:23:29.590] [modloading-worker-0/INFO] [Rhino Script Remapper/]: Loading Rhino Minecraft remapper...
+[11May2025 02:23:29.594] [modloading-worker-0/INFO] [dev.latvian.mods.rhino.mod.util.RhinoProperties/]: Rhino properties loaded.
+[11May2025 02:23:29.608] [modloading-worker-0/INFO] [Rhino Script Remapper/]: Loading mappings for 1.20.1
+[11May2025 02:23:29.840] [modloading-worker-0/INFO] [Rhino Script Remapper/]: Done in 0.247 s
+[11May2025 02:23:30.275] [modloading-worker-0/INFO] [KubeJS Startup/]: example.js#5: Hello, World! (Loaded startup scripts)
+[11May2025 02:23:30.279] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script startup_scripts:example.js in 0.092 s
+[11May2025 02:23:30.289] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded 1/1 KubeJS startup scripts in 0.438 s with 0 errors and 0 warnings
+[11May2025 02:23:30.344] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id kubejs:send_data_from_client
+[11May2025 02:23:30.348] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id kubejs:first_click
+[11May2025 02:23:31.928] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:loot_table_alias
+[11May2025 02:23:31.942] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:data_handler_type
+[11May2025 02:23:31.947] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:dynamic_spawner
+[11May2025 02:23:31.952] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:jigsaw_type
+[11May2025 02:23:32.131] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/Minecraft/servidor_minecraft/config/guardvillagers-common.toml is not correct. Correcting
+[11May2025 02:23:32.229] [modloading-worker-0/INFO] [dynamiclights/]: [Dynamic Lights] Loaded Dynamic Lights by Tschipcraft successfully!
+[11May2025 02:23:32.258] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_stellarity] Starting version check at https://api.modrinth.com/updates/bZgeDzN8/forge_updates.json
+[11May2025 02:23:32.460] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_stellarity] Found status: BETA_OUTDATED Current: 2.0d Target: 2.0e
+[11May2025 02:23:32.460] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dynamiclights] Starting version check at https://api.modrinth.com/updates/7YjclEGc/forge_updates.json
+[11May2025 02:23:32.508] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dynamiclights] Found status: AHEAD Current: 1.8.3+mod Target: null
+[11May2025 02:23:32.511] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[11May2025 02:23:32.534] [modloading-worker-0/INFO] [harmonised.pmmo.util.MsLoggy/]: Messages Registered
+[11May2025 02:23:32.712] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.10.3 Target: null
+[11May2025 02:23:32.712] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
+[11May2025 02:23:32.774] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: AHEAD Current: 9.1.36 Target: null
+[11May2025 02:23:32.779] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [guardvillagers] Starting version check at https://raw.githubusercontent.com/seymourimadeit/guardvillagers/master/update.json
+[11May2025 02:23:32.842] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [guardvillagers] Found status: BETA Current: 1.20.1-1.6.10 Target: 1.20-1.6.5
+[11May2025 02:23:32.842] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [crafttweaker] Starting version check at https://updates.blamejared.com/get?n=crafttweaker&gv=1.20.1
+[11May2025 02:23:33.109] [main/INFO] [journeymap/]: Initializing Packet Registries
+[11May2025 02:23:33.175] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
+[11May2025 02:23:33.175] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
+[11May2025 02:23:33.179] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
+[11May2025 02:23:33.180] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
+[11May2025 02:23:33.213] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [crafttweaker] Found status: BETA Current: 14.0.57 Target: 14.0.57
+[11May2025 02:23:33.213] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[11May2025 02:23:33.337] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[11May2025 02:23:33.338] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [structure_gel] Starting version check at http://changelogs.moddinglegacy.com/structure-gel.json
+[11May2025 02:23:33.740] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [structure_gel] Found status: BETA Current: 2.16.2 Target: null
+[11May2025 02:23:33.740] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwbridges] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/bridges.json
+[11May2025 02:23:33.752] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwbridges] Found status: UP_TO_DATE Current: 3.0.0 Target: null
+[11May2025 02:23:33.753] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Starting version check at https://update.maxhenkel.de/forge/gravestone
+[11May2025 02:23:34.292] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Found status: AHEAD Current: 1.20.1-1.0.24 Target: null
+[11May2025 02:23:34.292] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancednetherite] Starting version check at https://raw.githubusercontent.com/Autovw/ModUpdates/master/advancednetherite/update.json
+[11May2025 02:23:34.309] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancednetherite] Found status: BETA Current: 2.1.3 Target: 2.1.3
+[11May2025 02:23:34.310] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [thedragonlib] Starting version check at https://raw.githubusercontent.com/sokratis12GR/TheDragonLib/1.19/thedragonlib-updater.json
+[11May2025 02:23:34.325] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [thedragonlib] Found status: BETA Current: 1.20.1-1.0.0 Target: null
+[11May2025 02:23:34.327] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dynamic_fps] Starting version check at https://api.lostluma.net/updates/dynamic-fps?platform=forge
+[11May2025 02:23:34.733] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dynamic_fps] Found status: OUTDATED Current: 3.9.3 Target: 3.9.4
+[11May2025 02:23:34.734] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [armorplus] Starting version check at https://sokratis.space/armorplus/1.20/update.json
+[11May2025 02:23:34.880] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [armorplus] Found status: OUTDATED Current: 1.20.1-20.0.2 Target: 1.20.2-20.0.2
+[11May2025 02:23:35.826] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[11May2025 02:23:36.920] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Minecraft/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23207!/assets/.mcassetsroot' uses unexpected schema
+[11May2025 02:23:36.921] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Minecraft/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23207!/data/.mcassetsroot' uses unexpected schema
+[11May2025 02:23:37.079] [main/INFO] [KubeJS Server/]: Loaded script server_scripts:remove_bugged_recipes.js in 0.01 s
+[11May2025 02:23:37.080] [main/INFO] [KubeJS Server/]: example.js#5: Hello, World! (Loaded server scripts)
+[11May2025 02:23:37.080] [main/INFO] [KubeJS Server/]: Loaded script server_scripts:example.js in 0.0 s
+[11May2025 02:23:37.080] [main/INFO] [KubeJS Server/]: Loaded 2/2 KubeJS server scripts in 0.035 s with 0 errors and 0 warnings
+[11May2025 02:23:37.081] [main/INFO] [KubeJS Server/]: Scripts loaded
+[11May2025 02:23:37.093] [main/INFO] [KubeJS Server/]: Initializing recipe event...
+[11May2025 02:23:37.140] [main/ERROR] [net.minecraft.Util/]: Invalid path in pack: fokastudio:worldgen/biome/README.md, ignoring
+[11May2025 02:23:37.847] [main/INFO] [bettervillage/]: StructureSet modified for minecraft:village : Now using custom village configuration (can be disabled in the better villages config: boolean.villages.enabled_custom_config).
+[11May2025 02:23:41.448] [main/INFO] [KubeJS Server/]: Processing recipes...
+[11May2025 02:23:41.519] [main/WARN] [KubeJS Server/]: Failed to parse recipe 'seadwellers:depth_helmet[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[11May2025 02:23:41.541] [main/WARN] [KubeJS Server/]: Failed to parse recipe 'armorplus:crafting/shapeless/patchouli/ap_book[minecraft:crafting_shapeless]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[11May2025 02:23:41.602] [main/INFO] [KubeJS Server/]: Found 2523 recipes in 151.6 ms
+[11May2025 02:23:41.626] [main/INFO] [KubeJS Server/]: Posted recipe events in 19.54 ms
+[11May2025 02:23:41.801] [KubeJS Recipe Event Worker 0/WARN] [KubeJS Server/]: Error parsing recipe armorplus:crafting/shapeless/patchouli/ap_book[minecraft:crafting_shapeless]: {"type":"minecraft:crafting_shapeless","group":"armorplus:books","ingredients":[{"item":"armorplus:lava_crystal"},{"item":"minecraft:book"}],"result":{"item":"patchouli:guide_book","nbt":{"patchouli:book":"armorplus:guide_book"},"count":1}}: Unknown item 'patchouli:guide_book'
+[11May2025 02:23:41.837] [main/INFO] [KubeJS Server/]: Added 0 recipes, removed 0 recipes, modified 0 recipes, with 1 failed recipes in 205.1 ms
+[11May2025 02:23:42.017] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2479 advancements
+[11May2025 02:23:42.065] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio slots
+[11May2025 02:23:42.078] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio entities
+[11May2025 02:23:43.716] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[11May2025 02:23:43.716] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[11May2025 02:23:43.717] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[11May2025 02:23:43.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[11May2025 02:23:43.853] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[11May2025 02:23:43.880] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[11May2025 02:23:43.994] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[11May2025 02:23:43.995] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[11May2025 02:23:43.995] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[11May2025 02:23:43.996] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[11May2025 02:23:44.018] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[11May2025 02:23:44.021] [Thread-3/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[11May2025 02:23:44.146] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[11May2025 02:23:51.035] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[11May2025 02:23:51.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[11May2025 02:23:52.004] [Server thread/INFO] [KubeJS Server/]: Server resource reload complete!
+[11May2025 02:23:52.982] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[11May2025 02:23:53.867] [Netty Epoll Server IO #4/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[11May2025 02:23:59.552] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[11May2025 02:23:59.569] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[11May2025 02:23:59.571] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[11May2025 02:23:59.572] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[11May2025 02:23:59.574] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[11May2025 02:23:59.576] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[11May2025 02:23:59.579] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[11May2025 02:23:59.581] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[11May2025 02:23:59.616] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[11May2025 02:23:59.646] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[11May2025 02:23:59.683] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[11May2025 02:23:59.702] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[11May2025 02:23:59.741] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[11May2025 02:23:59.753] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[11May2025 02:23:59.765] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[11May2025 02:23:59.772] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[11May2025 02:24:00.813] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[11May2025 02:24:00.826] [Netty Epoll Server IO #5/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[11May2025 02:24:00.853] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[11May2025 02:24:02.196] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[11May2025 02:24:02.211] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[11May2025 02:24:02.221] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[11May2025 02:24:02.800] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[11May2025 02:24:02.999] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[11May2025 02:24:03.500] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 9%
+[11May2025 02:24:04.002] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 68%
+[11May2025 02:24:04.417] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 12419 ms
+[11May2025 02:24:04.418] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (20.405s)! For help, type "help"
+[11May2025 02:24:04.712] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[11May2025 02:24:04.755] [Server thread/INFO] [harmonised.pmmo.util.MsLoggy/]: Loading PMMO Saved Data
+[11May2025 02:24:04.756] [Server thread/INFO] [harmonised.pmmo.util.MsLoggy/]: Computing data for cache
+[11May2025 02:24:04.757] [Server thread/INFO] [harmonised.pmmo.util.MsLoggy/]: PMMO Server loading process complete
+[11May2025 02:24:04.761] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: betterfpsdist.json
+[11May2025 02:24:18.524] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[11May2025 02:24:18.692] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Amorger2[/127.221.252.161:60929] logged in with entity id 169 at (-631.5599098639965, 65.26703065583492, -399.08986353552757)
+[11May2025 02:24:19.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Amorger2 joined the game
+[11May2025 02:24:21.441] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2829ms or 56 ticks behind
+[11May2025 02:24:23.167] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Frog['Frog'/285, l='ServerLevel[world]', x=-699.67, y=67.00, z=-481.49]
+[11May2025 02:24:31.593] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mario444[/127.51.187.209:55531] logged in with entity id 424 at (-132.30000001192093, -13.0, -270.3830396432943)
+[11May2025 02:24:31.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mario444 joined the game
+[11May2025 02:24:39.706] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2e84c2c7[id=<null>,name=Dortodoloncio,properties={},legacy=false] (/127.221.252.161:52781) lost connection: Disconnected
+[11May2025 02:24:57.153] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:miner_main_room_pool
+[11May2025 02:24:57.155] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:miner_additions_2_pool
+[11May2025 02:24:57.156] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:miner_additions_3_pool
+[11May2025 02:24:57.156] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:miner_additions_1_pool
+[11May2025 02:25:20.336] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3b5681e5[id=<null>,name=Dortodoloncio,properties={},legacy=false] (/127.221.252.161:56449) lost connection: Disconnected
+[11May2025 02:25:31.707] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dortodoloncio[/127.221.252.161:45653] logged in with entity id 2220 at (-242.60543137246296, 76.0, -253.7961525747242)
+[11May2025 02:25:31.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dortodoloncio joined the game
+[11May2025 02:30:23.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dortodoloncio has made the advancement [Creeping Horror]
+[11May2025 02:30:40.613] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
+[11May2025 02:30:40.614] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
+[11May2025 02:30:40.614] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_end_1_pool
+[11May2025 02:30:40.615] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_end_1_pool
+[11May2025 02:30:44.580] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=24, y=-13, z=-544}
+[11May2025 02:31:05.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dortodoloncio has made the advancement [Sweet Dreams]
+[11May2025 02:31:08.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dortodoloncio> es
+[11May2025 02:32:05.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dortodoloncio has made the advancement [Monster Hunter]
+[11May2025 02:33:27.413] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_additions_3_pool
+[11May2025 02:33:27.414] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_additions_3_pool
+[11May2025 02:33:27.415] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_additions_3_pool
+[11May2025 02:33:27.415] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_end_1_pool
+[11May2025 02:33:27.415] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_end_1_pool
+[11May2025 02:33:27.415] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_end_1_pool
+[11May2025 02:35:43.171] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:angler_additions_3_pool
+[11May2025 02:35:43.172] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:angler_end_1_pool
+[11May2025 02:35:55.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dortodoloncio has made the advancement [Not Today, Thank You]
+[11May2025 02:37:04.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mario444 has made the advancement [Sweet Dreams]
+[11May2025 02:37:10.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <mario444> ftghfyhjfmh
+[11May2025 02:37:10.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Amorger2 has made the advancement [Sweet Dreams]
+[11May2025 02:39:22.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mario444 has made the advancement [Crops of the Wild]
+[11May2025 02:39:57.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dortodoloncio has made the advancement [Suit Up]
+[11May2025 02:40:02.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dortodoloncio has made the advancement [Isn't It Iron Pick]
+[11May2025 02:41:10.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dortodoloncio was doomed to fall by Piglin
+[11May2025 02:42:00.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mario444 has made the advancement [Isn't It Iron Pick]
+[11May2025 02:42:32.753] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
+[11May2025 02:42:32.753] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
+[11May2025 02:42:54.975] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:angler_additions_3_pool
+[11May2025 02:42:54.976] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:angler_end_1_pool
+[11May2025 02:44:19.121] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:house_basement_pool
+[11May2025 02:44:19.123] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
+[11May2025 02:44:19.123] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
+[11May2025 02:44:19.123] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_end_1_pool
+[11May2025 02:46:12.592] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
+[11May2025 02:46:12.593] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
+[11May2025 02:46:12.593] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_end_1_pool
+[11May2025 02:46:12.593] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_end_1_pool
+[11May2025 02:48:13.498] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:house_basement_pool
+[11May2025 02:48:13.499] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
+[11May2025 02:48:13.500] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
+[11May2025 02:48:13.501] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_end_1_pool
+[11May2025 02:48:13.501] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_end_1_pool
+[11May2025 02:48:23.044] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_3_pool
+[11May2025 02:48:23.045] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_4_pool
+[11May2025 02:48:23.045] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_1_pool
+[11May2025 02:48:23.045] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_2_pool
+[11May2025 02:48:23.046] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:angler_additions_3_pool
+[11May2025 02:48:23.046] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_3_pool
+[11May2025 02:48:23.047] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[11May2025 02:48:23.047] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[11May2025 02:49:23.119] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
+[11May2025 02:49:23.119] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
+[11May2025 02:49:23.119] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_end_1_pool
+[11May2025 02:50:32.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mario444 has made the advancement [Not Today, Thank You]
+[11May2025 02:51:28.995] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/27426, l='ServerLevel[world]', x=-1134.50, y=270.00, z=-1085.50] died, message: 'Villager suffocated in a wall'
+[11May2025 02:52:44.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Amorger2: Teleported Amorger2 to mario444]
+[11May2025 02:52:58.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Amorger2: Made mario444 a server operator]
+[11May2025 02:53:01.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mario444: Teleported mario444 to Amorger2]
+[11May2025 02:53:12.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mario444: Teleported mario444 to Dortodoloncio]
+[11May2025 02:54:56.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mario444 was slain by Halloweed
+[11May2025 02:54:56.693] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for mario444 with unique ID travelersbackpack.bee_11.05.2025-02.54.56.dat
+[11May2025 02:56:21.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mario444 was slain by Creepling
+[11May2025 02:57:01.723] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
+[11May2025 02:57:01.723] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
+[11May2025 02:57:01.723] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_end_1_pool
+[11May2025 02:57:02.196] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
+[11May2025 02:57:02.197] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
+[11May2025 02:57:02.198] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_end_1_pool
+[11May2025 02:57:02.198] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_end_1_pool
+[11May2025 02:57:04.532] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
+[11May2025 02:57:04.532] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
+[11May2025 02:57:38.708] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:angler_additions_3_pool
+[11May2025 02:58:17.921] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
+[11May2025 02:58:17.922] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
+[11May2025 02:58:17.922] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_end_1_pool
+[11May2025 02:59:18.646] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:village_plains took 1087 ms
+[11May2025 02:59:21.509] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_3_pool
+[11May2025 02:59:21.510] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_4_pool
+[11May2025 02:59:21.510] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_2_pool
+[11May2025 02:59:21.510] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_1_pool
+[11May2025 02:59:21.510] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[11May2025 02:59:21.511] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:angler_additions_3_pool
+[11May2025 02:59:21.511] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_3_pool
+[11May2025 02:59:21.511] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[11May2025 02:59:21.511] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[11May2025 02:59:23.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Amorger2: Teleported Amorger2 to -415.500000, 95.000000, -3535.500000]
+[11May2025 02:59:23.370] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2157ms or 43 ticks behind
+[11May2025 02:59:23.496] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dortodoloncio moved too quickly! -2.3766575637161793,-0.9731060467136956,-10.007111939060906
+[11May2025 02:59:24.842] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_4_pool
+[11May2025 02:59:24.842] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_2_pool
+[11May2025 02:59:24.843] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_3_pool
+[11May2025 02:59:24.843] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_3_pool
+[11May2025 02:59:24.844] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[11May2025 02:59:24.844] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[11May2025 02:59:24.844] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[11May2025 02:59:24.844] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[11May2025 02:59:33.667] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:miner_main_room_pool
+[11May2025 02:59:33.668] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:miner_additions_3_pool
+[11May2025 02:59:33.668] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:miner_additions_1_pool
+[11May2025 02:59:33.668] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:miner_additions_2_pool
+[11May2025 02:59:39.707] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:miner_main_room_pool
+[11May2025 02:59:39.708] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:miner_additions_1_pool
+[11May2025 02:59:39.708] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:miner_additions_2_pool
+[11May2025 02:59:39.708] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:miner_additions_3_pool
+[11May2025 02:59:57.209] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_2_pool
+[11May2025 02:59:57.209] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_4_pool
+[11May2025 02:59:57.209] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_3_pool
+[11May2025 03:02:33.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Amorger2: Made Dortodoloncio a server operator]
+[11May2025 03:02:35.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mario444 has made the advancement [Best Friends Forever]
