@@ -165,3 +165,5 @@
 [12May2025 22:59:26.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Amorger2: Set own game mode to Survival Mode]
 [12May2025 23:11:59.080] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dortodoloncio[/127.221.252.161:58181] logged in with entity id 8853 at (-490.92500001192093, 77.0, -903.1749672528738)
 [12May2025 23:11:59.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dortodoloncio joined the game
+[12May2025 23:23:44.569] [Server thread/INFO] [armorplus/]: Charge at: 2
+[12May2025 23:24:58.967] [Server thread/INFO] [armorplus/]: Charge at: 16
