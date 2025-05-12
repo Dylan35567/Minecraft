@@ -1533,7 +1533,8 @@
       "minecraft:cave_spider": "2025-05-11 19:04:50 +0000",
       "minecraft:piglin": "2025-05-11 02:47:42 +0000",
       "minecraft:zombie": "2025-05-11 02:32:05 +0000",
-      "minecraft:drowned": "2025-05-11 02:36:29 +0000"
+      "minecraft:drowned": "2025-05-11 02:36:29 +0000",
+      "minecraft:zombie_villager": "2025-05-12 23:36:05 +0000"
     },
     "done": false
   },
