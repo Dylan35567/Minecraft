@@ -3366,3 +3366,10 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [12May2025 19:59:05.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Amorger2> ok+
 [12May2025 19:59:27.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Amorger2: Set own game mode to Survival Mode]
 [12May2025 20:00:04.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Amorger2 has made the advancement [Crops of the Wild]
+[12May2025 20:03:54.605] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12May2025 20:03:54.614] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12May2025 20:08:54.596] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12May2025 20:08:54.604] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12May2025 20:09:05.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dortodoloncio has made the advancement [Spooky Scary Skeleton]
+[12May2025 20:10:51.909] [Worker-Main-1/DEBUG] [mixin/]: Mixing BeardifierMixin from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[12May2025 20:10:51.910] [Worker-Main-1/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
