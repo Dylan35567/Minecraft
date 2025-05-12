@@ -167,3 +167,5 @@
 [12May2025 03:10:49.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Amorger2 joined the game
 [12May2025 03:10:53.077] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3484ms or 69 ticks behind
 [12May2025 03:11:05.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Amorger2: Set own game mode to Creative Mode]
+[12May2025 03:41:32.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Amorger2: Set own game mode to Survival Mode]
+[12May2025 03:45:38.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Amorger2: Gave 3 [Villager Spawn Egg] to Amorger2]
