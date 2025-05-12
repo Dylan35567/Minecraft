@@ -3180,3 +3180,8 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [12May2025 22:51:02.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Amorger2: Gave 1 [Name Tag] to Amorger2]
 [12May2025 22:53:03.033] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [12May2025 22:53:03.041] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12May2025 22:58:02.965] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12May2025 22:58:02.997] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12May2025 22:59:26.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Amorger2: Set own game mode to Survival Mode]
+[12May2025 23:03:02.975] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12May2025 23:03:02.984] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
