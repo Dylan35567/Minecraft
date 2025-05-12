@@ -3529,6 +3529,48 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/wither": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-05-12 20:09:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-05-12 20:09:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-05-12 20:09:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-05-12 20:25:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:pig": "2025-05-12 20:25:10 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-05-12 20:31:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-05-12 20:31:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-05-12 20:35:47 +0000"
@@ -3550,12 +3592,6 @@
   "minecraft:recipes/building_blocks/blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-05-12 20:35:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/glass": {
-    "criteria": {
-      "has_smelts_to_glass": "2025-05-12 20:31:51 +0000"
     },
     "done": true
   },
@@ -3595,12 +3631,6 @@
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/wither": {
-    "criteria": {
-      "has_wither_skeleton_skull": "2025-05-12 20:09:05 +0000"
-    },
-    "done": true
-  },
   "ironchest:recipes/decorations/upgrades/diamond_to_obsidian_chest_upgrade": {
     "criteria": {
       "has_glass": "2025-05-12 20:35:47 +0000"
@@ -3631,12 +3661,6 @@
     },
     "done": true
   },
-  "minecraft:husbandry/breed_an_animal": {
-    "criteria": {
-      "bred": "2025-05-12 20:25:10 +0000"
-    },
-    "done": true
-  },
   "ironchest:recipes/decorations/upgrades/diamond_to_crystal_chest_upgrade": {
     "criteria": {
       "has_glass": "2025-05-12 20:35:47 +0000"
@@ -3660,18 +3684,6 @@
       "has_glass": "2025-05-12 20:35:47 +0000"
     },
     "done": true
-  },
-  "minecraft:nether/get_wither_skull": {
-    "criteria": {
-      "wither_skull": "2025-05-12 20:09:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/bred_all_animals": {
-    "criteria": {
-      "minecraft:pig": "2025-05-12 20:25:10 +0000"
-    },
-    "done": false
   },
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
@@ -3697,12 +3709,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/sandstone": {
-    "criteria": {
-      "has_sand": "2025-05-12 20:31:51 +0000"
-    },
-    "done": true
-  },
   "mcwbridges:recipes/glass_bridge": {
     "criteria": {
       "has_planks": "2025-05-12 20:35:47 +0000"
@@ -3712,12 +3718,6 @@
   "ironchest:recipes/decorations/chests/diamond_crystal_chest": {
     "criteria": {
       "has_glass": "2025-05-12 20:35:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/skull_banner_pattern": {
-    "criteria": {
-      "has_wither_skeleton_skull": "2025-05-12 20:09:05 +0000"
     },
     "done": true
   },
