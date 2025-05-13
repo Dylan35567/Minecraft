@@ -21,3 +21,16 @@
 [13May2025 00:18:33.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Amorger2: Set own game mode to Survival Mode]
 [13May2025 00:26:36.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [13May2025 00:26:36.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hola<--[HERE]
+[13May2025 00:31:44.607] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dortodoloncio was kicked for floating too long!
+[13May2025 00:31:44.663] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dortodoloncio lost connection: Flying is not enabled on this server
+[13May2025 00:31:44.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dortodoloncio left the game
+[13May2025 00:32:02.670] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dortodoloncio[/127.221.252.161:50741] logged in with entity id 90561 at (-861.6073662833653, 71.98091198583573, -927.6862512641804)
+[13May2025 00:32:02.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dortodoloncio joined the game
+[13May2025 00:32:06.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dortodoloncio fell from a high place
+[13May2025 00:32:06.115] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Dortodoloncio with unique ID travelersbackpack.emerald_13.05.2025-00.32.06.dat
+[13May2025 00:33:29.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dortodoloncio fell from a high place
+[13May2025 00:33:29.763] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Dortodoloncio with unique ID travelersbackpack.emerald_13.05.2025-00.33.29.dat
+[13May2025 00:34:42.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dortodoloncio was doomed to fall
+[13May2025 00:34:42.263] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Dortodoloncio with unique ID travelersbackpack.emerald_13.05.2025-00.34.42.dat
+[13May2025 00:39:04.055] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dortodoloncio lost connection: Disconnected
+[13May2025 00:39:04.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dortodoloncio left the game
