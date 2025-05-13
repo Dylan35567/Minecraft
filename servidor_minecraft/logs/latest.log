@@ -235,3 +235,18 @@
 [13May2025 22:07:57.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Amorger2: Set own game mode to Survival Mode]
 [13May2025 22:11:12.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dortodoloncio was slain by Skeleton
 [13May2025 22:11:12.867] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Dortodoloncio with unique ID travelersbackpack.emerald_13.05.2025-22.11.12.dat
+[13May2025 22:13:09.690] [Server thread/INFO] [armorplus/]: Charge at: 19
+[13May2025 22:13:59.938] [Server thread/INFO] [armorplus/]: Charge at: 43
+[13May2025 22:14:30.140] [Server thread/INFO] [armorplus/]: Charge at: 22
+[13May2025 22:16:00.785] [Server thread/INFO] [armorplus/]: Charge at: 10
+[13May2025 22:17:12.736] [Server thread/INFO] [armorplus/]: Charge at: 17
+[13May2025 22:17:14.085] [Server thread/INFO] [armorplus/]: Charge at: 21
+[13May2025 22:17:16.787] [Server thread/INFO] [armorplus/]: Charge at: 50
+[13May2025 22:17:18.637] [Server thread/INFO] [armorplus/]: Charge at: 29
+[13May2025 22:17:21.436] [Server thread/INFO] [armorplus/]: Charge at: 51
+[13May2025 22:18:15.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dortodoloncio was slain by Skeleton
+[13May2025 22:18:15.477] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Dortodoloncio with unique ID travelersbackpack.emerald_13.05.2025-22.18.15.dat
+[13May2025 22:18:30.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dortodoloncio was slain by Skeleton
+[13May2025 22:18:49.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dortodoloncio was slain by Skeleton
+[13May2025 22:22:16.078] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dortodoloncio lost connection: Disconnected
+[13May2025 22:22:16.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dortodoloncio left the game
