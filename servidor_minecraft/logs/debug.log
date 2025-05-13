@@ -3772,3 +3772,19 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [13May2025 23:40:16.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Amorger2: Set own game mode to Survival Mode]
 [13May2025 23:42:17.799] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [13May2025 23:42:17.806] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13May2025 23:47:00.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Amorger2 was shot by Pillager
+[13May2025 23:47:00.659] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Amorger2 with unique ID travelersbackpack.pig_13.05.2025-23.47.00.dat
+[13May2025 23:47:17.804] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13May2025 23:47:17.810] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13May2025 23:52:04.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Amorger2 was slain by Zombie
+[13May2025 23:52:04.906] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Amorger2 with unique ID travelersbackpack.pig_13.05.2025-23.52.04.dat
+[13May2025 23:52:17.796] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13May2025 23:52:17.802] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13May2025 23:52:27.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Amorger2 was slain by Zombie
+[13May2025 23:53:31.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dortodoloncio was slain by Zombie
+[13May2025 23:53:31.013] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Dortodoloncio with unique ID travelersbackpack.emerald_13.05.2025-23.53.31.dat
+[13May2025 23:53:43.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dortodoloncio was slain by Zombie
+[13May2025 23:54:16.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Amorger2 was slain by Zombie
+[13May2025 23:54:16.760] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Amorger2 with unique ID travelersbackpack.pig_13.05.2025-23.54.16.dat
+[13May2025 23:54:29.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Amorger2 was slain by Zombie
+[13May2025 23:54:37.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dortodoloncio was slain by Zombie
