@@ -214,3 +214,24 @@
 [13May2025 21:40:19.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Amorger2> increible
 [13May2025 21:40:23.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Amorger2> XD
 [13May2025 21:40:24.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dortodoloncio> xdd
+[13May2025 21:45:54.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dortodoloncio has made the advancement [Smoke On The Water]
+[13May2025 21:45:59.828] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Dortodoloncio) moved wrongly! 0.9397075532541397
+[13May2025 21:45:59.892] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Dortodoloncio) moved wrongly! 0.8116644345764863
+[13May2025 21:46:10.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dortodoloncio was slain by Skeleton
+[13May2025 21:46:10.303] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Dortodoloncio with unique ID travelersbackpack.emerald_13.05.2025-21.46.10.dat
+[13May2025 21:46:24.906] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_2_pool
+[13May2025 21:46:24.907] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_4_pool
+[13May2025 21:46:24.907] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_1_pool
+[13May2025 21:46:24.907] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_3_pool
+[13May2025 21:46:24.907] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_3_pool
+[13May2025 21:46:24.908] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[13May2025 21:46:49.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dortodoloncio was slain by Skeleton
+[13May2025 21:51:53.842] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/19437, l='ServerLevel[world]', x=-303.50, y=95.25, z=-3565.30] died, message: 'Farmer was slain by Amorger2'
+[13May2025 21:52:11.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Amorger2: Gave 1 [Villager Spawn Egg] to Amorger2]
+[13May2025 21:54:45.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dortodoloncio has reached the goal [Strengthened by Fire]
+[13May2025 22:06:40.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dortodoloncio was slain by Skeleton
+[13May2025 22:06:40.024] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Dortodoloncio with unique ID travelersbackpack.emerald_13.05.2025-22.06.40.dat
+[13May2025 22:06:43.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Amorger2: Set own game mode to Creative Mode]
+[13May2025 22:07:57.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Amorger2: Set own game mode to Survival Mode]
+[13May2025 22:11:12.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dortodoloncio was slain by Skeleton
+[13May2025 22:11:12.867] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Dortodoloncio with unique ID travelersbackpack.emerald_13.05.2025-22.11.12.dat

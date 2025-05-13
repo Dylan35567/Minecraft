@@ -50,6 +50,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2025-05-11 01:57:20 +0000",
+      "minecraft:deep_ocean": "2025-05-13 21:45:10 +0000",
       "minecraft:birch_forest": "2025-05-11 02:38:27 +0000",
       "minecraft:windswept_hills": "2025-05-11 03:27:23 +0000",
       "minecraft:beach": "2025-05-11 02:38:40 +0000",
@@ -57,6 +58,7 @@
       "minecraft:swamp": "2025-05-12 23:43:20 +0000",
       "minecraft:forest": "2025-05-11 01:45:06 +0000",
       "minecraft:ocean": "2025-05-11 02:39:49 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-05-13 21:45:42 +0000",
       "minecraft:old_growth_birch_forest": "2025-05-11 02:38:34 +0000",
       "minecraft:windswept_gravelly_hills": "2025-05-11 02:14:16 +0000",
       "minecraft:plains": "2025-05-11 02:10:25 +0000"
@@ -1482,6 +1484,7 @@
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "rice": "2025-05-11 02:26:46 +0000",
+      "wheat": "2025-05-13 21:38:09 +0000",
       "carrot": "2025-05-11 03:16:33 +0000"
     },
     "done": false
@@ -1529,12 +1532,14 @@
       "minecraft:vindicator": "2025-05-11 02:49:43 +0000",
       "minecraft:spider": "2025-05-11 02:34:46 +0000",
       "minecraft:piglin_brute": "2025-05-12 23:48:29 +0000",
+      "minecraft:creeper": "2025-05-13 21:57:31 +0000",
       "minecraft:phantom": "2025-05-11 20:26:15 +0000",
       "minecraft:witch": "2025-05-11 03:21:16 +0000",
       "minecraft:wither_skeleton": "2025-05-11 21:26:58 +0000",
       "minecraft:husk": "2025-05-11 03:11:53 +0000",
       "minecraft:cave_spider": "2025-05-11 19:04:50 +0000",
       "minecraft:piglin": "2025-05-11 02:47:42 +0000",
+      "minecraft:silverfish": "2025-05-13 22:02:45 +0000",
       "minecraft:zombie": "2025-05-11 02:32:05 +0000",
       "minecraft:drowned": "2025-05-11 02:36:29 +0000",
       "minecraft:zombie_villager": "2025-05-12 23:36:05 +0000"
@@ -3929,6 +3934,42 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2025-05-13 21:55:11 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_undead_pirate_ship": {
+    "criteria": {
+      "location0": "2025-05-13 21:45:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2025-05-13 21:54:45 +0000"
+    },
+    "done": true
+  },
+  "stellarity:story/strengthened_by_fire": {
+    "criteria": {
+      "criteria": "2025-05-13 21:54:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-05-13 21:55:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2025-05-13 21:55:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-13 21:32:20 +0000"
@@ -3938,6 +3979,12 @@
   "minecraft:recipes/transportation/jungle_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-13 21:32:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-05-13 21:55:11 +0000"
     },
     "done": true
   },
@@ -3959,6 +4006,36 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2025-05-13 21:55:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2025-05-13 21:55:11 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/end": {
+    "criteria": {
+      "has_ender_eye": "2025-05-13 21:54:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2025-05-13 21:55:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2025-05-13 21:55:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-13 21:32:20 +0000"
@@ -3977,9 +4054,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-05-13 21:55:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-05-13 21:55:11 +0000"
+    },
+    "done": true
+  },
+  "stellarity:recipes/slime_ball_from_ender_eye": {
+    "criteria": {
+      "has_item": "2025-05-13 21:54:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-13 21:32:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-05-13 21:55:11 +0000"
     },
     "done": true
   },
@@ -3992,6 +4093,48 @@
   "minecraft:recipes/transportation/bamboo_chest_raft": {
     "criteria": {
       "has_boat": "2025-05-13 21:32:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-05-13 21:55:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-05-13 21:55:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_glazed_terracotta": {
+    "criteria": {
+      "has_black_terracotta": "2025-05-13 21:54:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-05-13 21:38:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2025-05-13 21:54:45 +0000"
+    },
+    "done": true
+  },
+  "armorplus:recipes/armorplus.blocks/crafting/shaped/soul_box_adv": {
+    "criteria": {
+      "has_req": "2025-05-13 21:55:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2025-05-13 21:55:11 +0000"
     },
     "done": true
   },
