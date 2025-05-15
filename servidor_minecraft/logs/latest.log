@@ -219,3 +219,8 @@
 [15May2025 23:40:13.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Amorger2 has made the advancement [Ice Bucket Challenge]
 [15May2025 23:42:55.517] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/68962, l='ServerLevel[world]', x=-505.51, y=68.00, z=-912.30] died, message: 'Villager was slain by Dortodoloncio'
 [15May2025 23:43:44.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dortodoloncio: Teleported Dortodoloncio to Amorger2]
+[15May2025 23:54:23.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dortodoloncio was slain by Amorger2
+[15May2025 23:54:23.633] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Dortodoloncio with unique ID travelersbackpack.emerald_15.05.2025-23.54.23.dat
+[15May2025 23:56:12.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Amorger2: Teleported Amorger2 to Dortodoloncio]
+[15May2025 23:57:51.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Amorger2 has made the advancement [Night Sky Stalkers]
+[15May2025 23:57:51.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Amorger2 has reached the goal [Worsening Nightmares]

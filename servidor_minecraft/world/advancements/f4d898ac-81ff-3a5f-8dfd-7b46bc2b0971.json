@@ -3773,6 +3773,12 @@
     },
     "done": true
   },
+  "armorplus:recipes/armorplus.items/crafting/shaped/ender_dragon/ender_dragon_pickaxe_base": {
+    "criteria": {
+      "has_req": "2025-05-15 23:49:17 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_wishing_well": {
     "criteria": {
       "location0": "2025-05-15 23:32:26 +0000"
@@ -3785,9 +3791,69 @@
     },
     "done": true
   },
+  "armorplus:recipes/armorplus.weapons/crafting/shaped/infused_lava/infused_lava_sword": {
+    "criteria": {
+      "has_req": "2025-05-15 23:49:17 +0000"
+    },
+    "done": true
+  },
+  "armorplus:recipes/armorplus.weapons/crafting/shaped/infused_lava/infused_lava_battle_axe": {
+    "criteria": {
+      "has_req": "2025-05-15 23:49:17 +0000"
+    },
+    "done": true
+  },
+  "armorplus:recipes/armorplus.items/crafting/shaped/super_star/super_star_pickaxe_base": {
+    "criteria": {
+      "has_req": "2025-05-15 23:49:17 +0000"
+    },
+    "done": true
+  },
+  "armorplus:recipes/armorplus.weapons/crafting/shaped/guardian/guardian_mace": {
+    "criteria": {
+      "has_req": "2025-05-15 23:49:17 +0000"
+    },
+    "done": true
+  },
+  "armorplus:recipes/armorplus.weapons/crafting/shaped/super_star/super_star_mace": {
+    "criteria": {
+      "has_req": "2025-05-15 23:49:17 +0000"
+    },
+    "done": true
+  },
+  "armorplus:recipes/armorplus.items/crafting/shaped/super_star/super_star_sword_base": {
+    "criteria": {
+      "has_req": "2025-05-15 23:49:17 +0000"
+    },
+    "done": true
+  },
+  "armorplus:recipes/armorplus.items/crafting/shaped/guardian/guardian_battle_axe_base": {
+    "criteria": {
+      "has_req": "2025-05-15 23:49:17 +0000"
+    },
+    "done": true
+  },
+  "armorplus:recipes/armorplus.weapons/crafting/shaped/guardian/guardian_mace_alt": {
+    "criteria": {
+      "has_req": "2025-05-15 23:49:17 +0000"
+    },
+    "done": true
+  },
   "armorplus:recipes/armorplus.weapons/crafting/shaped/obsidian/obsidian_arrow": {
     "criteria": {
       "has_req": "2025-05-15 23:40:13 +0000"
+    },
+    "done": true
+  },
+  "armorplus:recipes/armorplus.items/crafting/shaped/guardian/guardian_pickaxe_base": {
+    "criteria": {
+      "has_req": "2025-05-15 23:49:17 +0000"
+    },
+    "done": true
+  },
+  "armorplus:recipes/armorplus.weapons/crafting/shaped/ender_dragon/ender_dragon_mace_alt": {
+    "criteria": {
+      "has_req": "2025-05-15 23:49:17 +0000"
     },
     "done": true
   },
@@ -3797,9 +3863,21 @@
     },
     "done": true
   },
+  "armorplus:recipes/armorplus.items/crafting/shaped/ender_dragon/ender_dragon_sword_base": {
+    "criteria": {
+      "has_req": "2025-05-15 23:49:17 +0000"
+    },
+    "done": true
+  },
   "armorplus:recipes/armorplus.items/crafting/shapeless/obsidian_stick_adv": {
     "criteria": {
       "has_req": "2025-05-15 23:40:13 +0000"
+    },
+    "done": true
+  },
+  "armorplus:recipes/armorplus.items/crafting/shaped/super_star/super_star_battle_axe_base": {
+    "criteria": {
+      "has_req": "2025-05-15 23:49:17 +0000"
     },
     "done": true
   },
@@ -3815,9 +3893,45 @@
     },
     "done": true
   },
+  "armorplus:recipes/armorplus.items/crafting/shaped/slayer/slayer_pickaxe_base": {
+    "criteria": {
+      "has_req": "2025-05-15 23:49:17 +0000"
+    },
+    "done": true
+  },
   "armorplus:recipes/building_blocks/crafting/shapeless/obsidian_stick_adv": {
     "criteria": {
       "has_req": "2025-05-15 23:40:13 +0000"
+    },
+    "done": true
+  },
+  "armorplus:recipes/armorplus.weapons/crafting/shaped/infused_lava/infused_lava_pickaxe": {
+    "criteria": {
+      "has_req": "2025-05-15 23:49:17 +0000"
+    },
+    "done": true
+  },
+  "armorplus:recipes/armorplus.weapons/crafting/shaped/super_star/super_star_mace_alt": {
+    "criteria": {
+      "has_req": "2025-05-15 23:49:17 +0000"
+    },
+    "done": true
+  },
+  "armorplus:recipes/armorplus.weapons/crafting/shaped/ender_dragon/ender_dragon_mace": {
+    "criteria": {
+      "has_req": "2025-05-15 23:49:17 +0000"
+    },
+    "done": true
+  },
+  "armorplus:recipes/armorplus.weapons/crafting/shaped/infused_lava/infused_lava_mace_alt": {
+    "criteria": {
+      "has_req": "2025-05-15 23:49:17 +0000"
+    },
+    "done": true
+  },
+  "armorplus:recipes/armorplus.items/crafting/shaped/slayer/slayer_battle_axe_base": {
+    "criteria": {
+      "has_req": "2025-05-15 23:49:17 +0000"
     },
     "done": true
   },
@@ -3833,15 +3947,39 @@
     },
     "done": true
   },
+  "armorplus:recipes/armorplus.weapons/crafting/shaped/infused_lava/infused_lava_mace": {
+    "criteria": {
+      "has_req": "2025-05-15 23:49:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
       "has_obsidian": "2025-05-15 23:40:13 +0000"
     },
     "done": true
   },
+  "armorplus:recipes/armorplus.items/crafting/shaped/guardian/guardian_sword_base": {
+    "criteria": {
+      "has_req": "2025-05-15 23:49:17 +0000"
+    },
+    "done": true
+  },
+  "armorplus:recipes/armorplus.items/crafting/shaped/slayer/slayer_sword_base": {
+    "criteria": {
+      "has_req": "2025-05-15 23:49:17 +0000"
+    },
+    "done": true
+  },
   "stellarity:recipes/crying_obsidian_with_popped_chorus": {
     "criteria": {
       "has_item1": "2025-05-15 23:40:13 +0000"
+    },
+    "done": true
+  },
+  "armorplus:recipes/armorplus.items/crafting/shaped/ender_dragon/ender_dragon_battle_axe_base": {
+    "criteria": {
+      "has_req": "2025-05-15 23:49:17 +0000"
     },
     "done": true
   },

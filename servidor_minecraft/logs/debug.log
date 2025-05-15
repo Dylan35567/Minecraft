@@ -3462,3 +3462,16 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [15May2025 23:43:44.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dortodoloncio: Teleported Dortodoloncio to Amorger2]
 [15May2025 23:44:17.904] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [15May2025 23:44:17.911] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15May2025 23:49:13.089] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-475, y=76, z=-907}) doesn't have enough leaves around top most log
+[15May2025 23:49:17.929] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15May2025 23:49:17.935] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15May2025 23:49:17.995] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-475, y=77, z=-907}) doesn't have enough leaves around top most log
+[15May2025 23:49:17.996] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-475, y=79, z=-907}) doesn't have enough leaves around top most log
+[15May2025 23:49:17.998] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-475, y=78, z=-907}) doesn't have enough leaves around top most log
+[15May2025 23:54:17.889] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15May2025 23:54:17.895] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15May2025 23:54:23.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dortodoloncio was slain by Amorger2
+[15May2025 23:54:23.633] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Dortodoloncio with unique ID travelersbackpack.emerald_15.05.2025-23.54.23.dat
+[15May2025 23:56:12.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Amorger2: Teleported Amorger2 to Dortodoloncio]
+[15May2025 23:57:51.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Amorger2 has made the advancement [Night Sky Stalkers]
+[15May2025 23:57:51.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Amorger2 has reached the goal [Worsening Nightmares]
