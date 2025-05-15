@@ -198,3 +198,9 @@
 [15May2025 23:03:14.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Amorger2: endurance has been changed by 30 levels for Dortodoloncio]
 [15May2025 23:04:39.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Amorger2: combat has been changed by 10 levels for Dortodoloncio]
 [15May2025 23:05:06.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Amorger2: combat has been changed by 10 levels for Amorger2]
+[15May2025 23:27:37.770] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_additions_3_pool
+[15May2025 23:27:37.772] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_additions_3_pool
+[15May2025 23:27:37.773] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_additions_3_pool
+[15May2025 23:27:37.774] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_end_1_pool
+[15May2025 23:27:44.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Amorger2 has made the advancement [Hunt and Gather]
+[15May2025 23:28:13.873] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-488, y=76, z=-915} BlockPos{x=-488, y=75, z=-914}
