@@ -56,10 +56,12 @@
       "minecraft:beach": "2025-05-11 02:45:45 +0000",
       "minecraft:river": "2025-05-11 01:54:06 +0000",
       "minecraft:lukewarm_ocean": "2025-05-13 23:38:11 +0000",
+      "minecraft:stony_shore": "2025-05-15 23:35:14 +0000",
       "minecraft:dripstone_caves": "2025-05-11 02:29:31 +0000",
       "minecraft:swamp": "2025-05-11 02:14:43 +0000",
       "minecraft:forest": "2025-05-11 01:52:16 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-05-13 23:30:48 +0000",
+      "minecraft:old_growth_birch_forest": "2025-05-15 23:39:38 +0000",
       "minecraft:meadow": "2025-05-11 02:58:41 +0000",
       "minecraft:windswept_gravelly_hills": "2025-05-11 02:07:47 +0000",
       "minecraft:plains": "2025-05-11 02:01:38 +0000"
@@ -3768,6 +3770,78 @@
   "minecraft:husbandry/tactical_fishing": {
     "criteria": {
       "salmon_bucket": "2025-05-14 00:05:09 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_wishing_well": {
+    "criteria": {
+      "location0": "2025-05-15 23:32:26 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/diamond_obsidian_chest": {
+    "criteria": {
+      "has_obsidian": "2025-05-15 23:40:13 +0000"
+    },
+    "done": true
+  },
+  "armorplus:recipes/armorplus.weapons/crafting/shaped/obsidian/obsidian_arrow": {
+    "criteria": {
+      "has_req": "2025-05-15 23:40:13 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/gold_nugget_from_smelting_knife": {
+    "criteria": {
+      "has_golden_knife": "2025-05-15 23:27:44 +0000"
+    },
+    "done": true
+  },
+  "armorplus:recipes/armorplus.items/crafting/shapeless/obsidian_stick_adv": {
+    "criteria": {
+      "has_req": "2025-05-15 23:40:13 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/gold_nugget_from_blasting_knife": {
+    "criteria": {
+      "has_golden_knife": "2025-05-15 23:27:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-05-15 23:40:13 +0000"
+    },
+    "done": true
+  },
+  "armorplus:recipes/building_blocks/crafting/shapeless/obsidian_stick_adv": {
+    "criteria": {
+      "has_req": "2025-05-15 23:40:13 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "golden_knife": "2025-05-15 23:27:44 +0000"
+    },
+    "done": true
+  },
+  "armorplus:recipes/armorplus.blocks/crafting/shaped/storage/compressed_obsidian": {
+    "criteria": {
+      "has_req": "2025-05-15 23:40:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-05-15 23:40:13 +0000"
+    },
+    "done": true
+  },
+  "stellarity:recipes/crying_obsidian_with_popped_chorus": {
+    "criteria": {
+      "has_item1": "2025-05-15 23:40:13 +0000"
     },
     "done": true
   },

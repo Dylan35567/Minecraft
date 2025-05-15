@@ -3439,3 +3439,26 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [15May2025 23:27:37.774] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_end_1_pool
 [15May2025 23:27:44.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Amorger2 has made the advancement [Hunt and Gather]
 [15May2025 23:28:13.873] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-488, y=76, z=-915} BlockPos{x=-488, y=75, z=-914}
+[15May2025 23:28:39.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dortodoloncio: Teleported Dortodoloncio to Amorger2]
+[15May2025 23:29:17.903] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15May2025 23:29:17.909] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15May2025 23:31:46.522] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/69634, l='ServerLevel[world]', x=-490.34, y=70.75, z=-903.39] died, message: 'Fisherman was slain by Dortodoloncio'
+[15May2025 23:34:17.910] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15May2025 23:34:17.917] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15May2025 23:35:15.681] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
+[15May2025 23:35:15.681] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
+[15May2025 23:35:39.911] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:miner_main_room_pool
+[15May2025 23:35:39.912] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:miner_additions_2_pool
+[15May2025 23:35:39.912] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:miner_additions_3_pool
+[15May2025 23:35:39.913] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:miner_additions_1_pool
+[15May2025 23:35:49.871] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/68956, l='ServerLevel[world]', x=-493.49, y=68.00, z=-912.30] died, message: 'Librarian was slain by Dortodoloncio'
+[15May2025 23:35:52.472] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/68959, l='ServerLevel[world]', x=-496.49, y=68.00, z=-912.30] died, message: 'Villager was slain by Dortodoloncio'
+[15May2025 23:39:17.946] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15May2025 23:39:17.952] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15May2025 23:39:46.132] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/80028, l='ServerLevel[world]', x=-574.28, y=76.00, z=-4301.37] died, message: 'Villager suffocated in a wall'
+[15May2025 23:39:52.174] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/80452, l='ServerLevel[world]', x=-508.28, y=74.00, z=-4366.37] died, message: 'Nitwit suffocated in a wall'
+[15May2025 23:40:13.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Amorger2 has made the advancement [Ice Bucket Challenge]
+[15May2025 23:42:55.517] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/68962, l='ServerLevel[world]', x=-505.51, y=68.00, z=-912.30] died, message: 'Villager was slain by Dortodoloncio'
+[15May2025 23:43:44.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dortodoloncio: Teleported Dortodoloncio to Amorger2]
+[15May2025 23:44:17.904] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15May2025 23:44:17.911] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
