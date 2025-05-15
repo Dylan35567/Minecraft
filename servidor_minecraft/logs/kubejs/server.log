@@ -1,17 +1,17 @@
-[20:41:48] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
-[20:41:48] [INIT] Loaded plugins:
-[20:41:48] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
-[20:41:49] [INFO] Loaded script server_scripts:remove_bugged_recipes.js in 0.009 s
-[20:41:49] [INFO] example.js#5: Hello, World! (Loaded server scripts)
-[20:41:49] [INFO] Loaded script server_scripts:example.js in 0.001 s
-[20:41:49] [INFO] Loaded 2/2 KubeJS server scripts in 0.03 s with 0 errors and 0 warnings
-[20:41:49] [INFO] Scripts loaded
-[20:41:49] [INFO] Initializing recipe event...
-[20:41:53] [INFO] Processing recipes...
-[20:41:53] [WARN] Failed to parse recipe 'seadwellers:depth_helmet[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
-[20:41:53] [WARN] Failed to parse recipe 'armorplus:crafting/shapeless/patchouli/ap_book[minecraft:crafting_shapeless]'! Falling back to vanilla: ItemStack 'result' can't be empty!
-[20:41:53] [INFO] Found 2523 recipes in 149.3 ms
-[20:41:53] [INFO] Posted recipe events in 16.41 ms
-[20:41:53] [WARN] Error parsing recipe armorplus:crafting/shapeless/patchouli/ap_book[minecraft:crafting_shapeless]: {"type":"minecraft:crafting_shapeless","group":"armorplus:books","ingredients":[{"item":"armorplus:lava_crystal"},{"item":"minecraft:book"}],"result":{"item":"patchouli:guide_book","nbt":{"patchouli:book":"armorplus:guide_book"},"count":1}}: Unknown item 'patchouli:guide_book'
-[20:41:53] [INFO] Added 0 recipes, removed 0 recipes, modified 0 recipes, with 1 failed recipes in 183.2 ms
-[20:42:02] [INFO] Server resource reload complete!
+[22:27:28] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
+[22:27:28] [INIT] Loaded plugins:
+[22:27:28] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[22:27:28] [INFO] Loaded script server_scripts:remove_bugged_recipes.js in 0.01 s
+[22:27:28] [INFO] example.js#5: Hello, World! (Loaded server scripts)
+[22:27:28] [INFO] Loaded script server_scripts:example.js in 0.0 s
+[22:27:28] [INFO] Loaded 2/2 KubeJS server scripts in 0.039 s with 0 errors and 0 warnings
+[22:27:28] [INFO] Scripts loaded
+[22:27:28] [INFO] Initializing recipe event...
+[22:27:33] [INFO] Processing recipes...
+[22:27:33] [WARN] Failed to parse recipe 'seadwellers:depth_helmet[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[22:27:33] [WARN] Failed to parse recipe 'armorplus:crafting/shapeless/patchouli/ap_book[minecraft:crafting_shapeless]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[22:27:33] [INFO] Found 2523 recipes in 112.0 ms
+[22:27:33] [INFO] Posted recipe events in 21.09 ms
+[22:27:33] [WARN] Error parsing recipe armorplus:crafting/shapeless/patchouli/ap_book[minecraft:crafting_shapeless]: {"type":"minecraft:crafting_shapeless","group":"armorplus:books","ingredients":[{"item":"armorplus:lava_crystal"},{"item":"minecraft:book"}],"result":{"item":"patchouli:guide_book","nbt":{"patchouli:book":"armorplus:guide_book"},"count":1}}: Unknown item 'patchouli:guide_book'
+[22:27:33] [INFO] Added 0 recipes, removed 0 recipes, modified 0 recipes, with 1 failed recipes in 189.6 ms
+[22:27:43] [INFO] Server resource reload complete!
