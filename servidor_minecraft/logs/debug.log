@@ -3392,3 +3392,21 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [17May2025 02:36:11.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Amorger2 has reached the goal [A Piece of Otherworld]
 [17May2025 02:36:50.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Amorger2 has made the advancement [A Terrible Fortress]
 [17May2025 02:38:32.786] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity realmrpg_demons:demon_lord but it was marked as removed already
+[17May2025 02:39:35.178] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17May2025 02:39:35.185] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17May2025 02:41:31.799] [Server thread/INFO] [armorplus/]: Charge at: 21
+[17May2025 02:41:33.200] [Server thread/INFO] [armorplus/]: Charge at: 25
+[17May2025 02:42:27.099] [Server thread/INFO] [armorplus/]: Charge at: 13
+[17May2025 02:42:35.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Amorger2 has made the advancement [Into Fire]
+[17May2025 02:42:41.551] [Server thread/INFO] [armorplus/]: Charge at: 16
+[17May2025 02:42:42.749] [Server thread/INFO] [armorplus/]: Charge at: 21
+[17May2025 02:42:44.248] [Server thread/INFO] [armorplus/]: Charge at: 27
+[17May2025 02:42:45.397] [Server thread/INFO] [armorplus/]: Charge at: 20
+[17May2025 02:43:26.485] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity realmrpg_demons:demon_lord but it was marked as removed already
+[17May2025 02:44:35.183] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17May2025 02:44:35.200] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17May2025 02:49:08.253] [Server thread/INFO] [armorplus/]: Charge at: 27
+[17May2025 02:49:15.054] [Server thread/INFO] [armorplus/]: Charge at: 19
+[17May2025 02:49:16.354] [Server thread/INFO] [armorplus/]: Charge at: 18
+[17May2025 02:49:17.805] [Server thread/INFO] [armorplus/]: Charge at: 26
+[17May2025 02:49:19.206] [Server thread/INFO] [armorplus/]: Charge at: 13
