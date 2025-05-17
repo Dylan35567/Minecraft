@@ -76,6 +76,7 @@
       "minecraft:vindicator": "2025-05-11 02:47:27 +0000",
       "minecraft:spider": "2025-05-11 02:32:21 +0000",
       "minecraft:creeper": "2025-05-11 18:46:50 +0000",
+      "minecraft:phantom": "2025-05-15 23:57:51 +0000",
       "minecraft:wither_skeleton": "2025-05-11 21:34:16 +0000",
       "minecraft:husk": "2025-05-11 21:27:21 +0000",
       "minecraft:enderman": "2025-05-11 18:36:55 +0000",
@@ -3773,9 +3774,21 @@
     },
     "done": true
   },
-  "armorplus:recipes/armorplus.items/crafting/shaped/ender_dragon/ender_dragon_pickaxe_base": {
+  "farmersdelight:recipes/misc/gold_nugget_from_smelting_knife": {
     "criteria": {
-      "has_req": "2025-05-15 23:49:17 +0000"
+      "has_golden_knife": "2025-05-15 23:27:44 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/gold_nugget_from_blasting_knife": {
+    "criteria": {
+      "has_golden_knife": "2025-05-15 23:27:44 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "golden_knife": "2025-05-15 23:27:44 +0000"
     },
     "done": true
   },
@@ -3788,6 +3801,54 @@
   "ironchest:recipes/decorations/chests/diamond_obsidian_chest": {
     "criteria": {
       "has_obsidian": "2025-05-15 23:40:13 +0000"
+    },
+    "done": true
+  },
+  "armorplus:recipes/armorplus.weapons/crafting/shaped/obsidian/obsidian_arrow": {
+    "criteria": {
+      "has_req": "2025-05-15 23:40:13 +0000"
+    },
+    "done": true
+  },
+  "armorplus:recipes/armorplus.items/crafting/shapeless/obsidian_stick_adv": {
+    "criteria": {
+      "has_req": "2025-05-15 23:40:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-05-15 23:40:13 +0000"
+    },
+    "done": true
+  },
+  "armorplus:recipes/building_blocks/crafting/shapeless/obsidian_stick_adv": {
+    "criteria": {
+      "has_req": "2025-05-15 23:40:13 +0000"
+    },
+    "done": true
+  },
+  "armorplus:recipes/armorplus.blocks/crafting/shaped/storage/compressed_obsidian": {
+    "criteria": {
+      "has_req": "2025-05-15 23:40:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-05-15 23:40:13 +0000"
+    },
+    "done": true
+  },
+  "stellarity:recipes/crying_obsidian_with_popped_chorus": {
+    "criteria": {
+      "has_item1": "2025-05-15 23:40:13 +0000"
+    },
+    "done": true
+  },
+  "armorplus:recipes/armorplus.items/crafting/shaped/ender_dragon/ender_dragon_pickaxe_base": {
+    "criteria": {
+      "has_req": "2025-05-15 23:49:17 +0000"
     },
     "done": true
   },
@@ -3839,12 +3900,6 @@
     },
     "done": true
   },
-  "armorplus:recipes/armorplus.weapons/crafting/shaped/obsidian/obsidian_arrow": {
-    "criteria": {
-      "has_req": "2025-05-15 23:40:13 +0000"
-    },
-    "done": true
-  },
   "armorplus:recipes/armorplus.items/crafting/shaped/guardian/guardian_pickaxe_base": {
     "criteria": {
       "has_req": "2025-05-15 23:49:17 +0000"
@@ -3857,21 +3912,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/misc/gold_nugget_from_smelting_knife": {
-    "criteria": {
-      "has_golden_knife": "2025-05-15 23:27:44 +0000"
-    },
-    "done": true
-  },
   "armorplus:recipes/armorplus.items/crafting/shaped/ender_dragon/ender_dragon_sword_base": {
     "criteria": {
       "has_req": "2025-05-15 23:49:17 +0000"
-    },
-    "done": true
-  },
-  "armorplus:recipes/armorplus.items/crafting/shapeless/obsidian_stick_adv": {
-    "criteria": {
-      "has_req": "2025-05-15 23:40:13 +0000"
     },
     "done": true
   },
@@ -3881,27 +3924,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/misc/gold_nugget_from_blasting_knife": {
-    "criteria": {
-      "has_golden_knife": "2025-05-15 23:27:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/form_obsidian": {
-    "criteria": {
-      "obsidian": "2025-05-15 23:40:13 +0000"
-    },
-    "done": true
-  },
   "armorplus:recipes/armorplus.items/crafting/shaped/slayer/slayer_pickaxe_base": {
     "criteria": {
       "has_req": "2025-05-15 23:49:17 +0000"
-    },
-    "done": true
-  },
-  "armorplus:recipes/building_blocks/crafting/shapeless/obsidian_stick_adv": {
-    "criteria": {
-      "has_req": "2025-05-15 23:40:13 +0000"
     },
     "done": true
   },
@@ -3935,27 +3960,9 @@
     },
     "done": true
   },
-  "farmersdelight:main/craft_knife": {
-    "criteria": {
-      "golden_knife": "2025-05-15 23:27:44 +0000"
-    },
-    "done": true
-  },
-  "armorplus:recipes/armorplus.blocks/crafting/shaped/storage/compressed_obsidian": {
-    "criteria": {
-      "has_req": "2025-05-15 23:40:13 +0000"
-    },
-    "done": true
-  },
   "armorplus:recipes/armorplus.weapons/crafting/shaped/infused_lava/infused_lava_mace": {
     "criteria": {
       "has_req": "2025-05-15 23:49:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/enchanting_table": {
-    "criteria": {
-      "has_obsidian": "2025-05-15 23:40:13 +0000"
     },
     "done": true
   },
@@ -3971,15 +3978,21 @@
     },
     "done": true
   },
-  "stellarity:recipes/crying_obsidian_with_popped_chorus": {
-    "criteria": {
-      "has_item1": "2025-05-15 23:40:13 +0000"
-    },
-    "done": true
-  },
   "armorplus:recipes/armorplus.items/crafting/shaped/ender_dragon/ender_dragon_battle_axe_base": {
     "criteria": {
       "has_req": "2025-05-15 23:49:17 +0000"
+    },
+    "done": true
+  },
+  "stellarity:adventure/kill_large_phantom": {
+    "criteria": {
+      "size_doesnt_matter": "2025-05-15 23:57:51 +0000"
+    },
+    "done": true
+  },
+  "stellarity:adventure/night_sky_stalkers": {
+    "criteria": {
+      "sleep_deprivation": "2025-05-15 23:57:51 +0000"
     },
     "done": true
   },
