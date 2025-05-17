@@ -173,3 +173,13 @@
 [17May2025 02:16:16.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dortodoloncio> ok xddd
 [17May2025 02:16:18.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Amorger2 was slain by Iron Golem
 [17May2025 02:16:18.458] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Amorger2 with unique ID travelersbackpack.pig_17.05.2025-02.16.18.dat
+[17May2025 02:33:26.559] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dortodoloncio lost connection: Disconnected
+[17May2025 02:33:26.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dortodoloncio left the game
+[17May2025 02:33:35.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Amorger2: Gave 10 [Obsidian] to Amorger2]
+[17May2025 02:34:13.227] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [8 above bottom-0 absolute]
+[17May2025 02:34:13.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Amorger2 has made the advancement [We Need to Go Deeper]
+[17May2025 02:34:15.071] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4040ms or 80 ticks behind
+[17May2025 02:34:38.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Amorger2 has made the advancement [Not Today, Thank You]
+[17May2025 02:36:11.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Amorger2 has reached the goal [A Piece of Otherworld]
+[17May2025 02:36:50.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Amorger2 has made the advancement [A Terrible Fortress]
+[17May2025 02:38:32.786] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity realmrpg_demons:demon_lord but it was marked as removed already
